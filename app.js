@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       fetch("data/talks.json"),
       fetch("data/slide-images-brushup-life-1.json"),
       fetch("data/slide-images-happiness-spectrum.json"),
+      fetch("data/slide-images-chiu-20260529.json"),
     ]);
     if (!talksResponse.ok) throw new Error(`talks.json HTTP ${talksResponse.status}`);
     const failedImages = imageResponses.find((response) => !response.ok);
