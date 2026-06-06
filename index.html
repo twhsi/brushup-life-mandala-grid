@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#0b0c0d" />
     <title>重啟人生 Mandala Grid｜Trail Archive</title>
-    <link rel="stylesheet" href="styles.css?v=2" />
+    <link rel="stylesheet" href="styles.css?v=3" />
   </head>
   <body>
     <header class="topbar">
@@ -68,6 +68,11 @@
             <span class="field-label">Title</span>
             <h1 id="cardTitle">正在載入資料</h1>
             <figure class="card-image-wrap" id="cardImageWrap" hidden>
+              <div class="card-image-controls" id="cardImageControls" hidden>
+                <button id="imagePrevButton" type="button">上一頁</button>
+                <span id="cardImageCounter"></span>
+                <button id="imageNextButton" type="button">下一頁</button>
+              </div>
               <img class="card-image" id="cardImage" src="" alt="" />
               <figcaption id="cardImageCaption"></figcaption>
             </figure>
@@ -178,6 +183,6 @@
     </dialog>
 
     <div id="toast" class="toast" role="status"></div>
-    <script src="app.js?v=2"></script>
+    <script src="app.js?v=3"></script>
   </body>
 </html>

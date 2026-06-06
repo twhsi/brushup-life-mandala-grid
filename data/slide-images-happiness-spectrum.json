@@ -1,0 +1,6412 @@
+{
+  "talkId": "happiness-spectrum-20251108",
+  "sourcePdf": "20251108 v5 快樂的光譜 邱博士.pdf",
+  "strategy": "777 PDF pages are distributed in order across the 64 visible Trail cards; each card contains multiple slide images.",
+  "totalPdfPages": 777,
+  "totalGridCards": 64,
+  "bucketSize": {
+    "min": 12,
+    "max": 13
+  },
+  "mapping": [
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.1.1",
+      "kind": "card",
+      "pdfPages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "pageRange": "1–12",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 1,
+          "image": "/assets/slides/happiness-spectrum/page-001.jpg",
+          "alt": "快樂的光譜｜第 1 頁｜1.1.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 2,
+          "image": "/assets/slides/happiness-spectrum/page-002.jpg",
+          "alt": "快樂的光譜｜第 2 頁｜1.1.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 3,
+          "image": "/assets/slides/happiness-spectrum/page-003.jpg",
+          "alt": "快樂的光譜｜第 3 頁｜1.1.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 4,
+          "image": "/assets/slides/happiness-spectrum/page-004.jpg",
+          "alt": "快樂的光譜｜第 4 頁｜1.1.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 5,
+          "image": "/assets/slides/happiness-spectrum/page-005.jpg",
+          "alt": "快樂的光譜｜第 5 頁｜1.1.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 6,
+          "image": "/assets/slides/happiness-spectrum/page-006.jpg",
+          "alt": "快樂的光譜｜第 6 頁｜1.1.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 7,
+          "image": "/assets/slides/happiness-spectrum/page-007.jpg",
+          "alt": "快樂的光譜｜第 7 頁｜1.1.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 8,
+          "image": "/assets/slides/happiness-spectrum/page-008.jpg",
+          "alt": "快樂的光譜｜第 8 頁｜1.1.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 9,
+          "image": "/assets/slides/happiness-spectrum/page-009.jpg",
+          "alt": "快樂的光譜｜第 9 頁｜1.1.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 10,
+          "image": "/assets/slides/happiness-spectrum/page-010.jpg",
+          "alt": "快樂的光譜｜第 10 頁｜1.1.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 11,
+          "image": "/assets/slides/happiness-spectrum/page-011.jpg",
+          "alt": "快樂的光譜｜第 11 頁｜1.1.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 12,
+          "image": "/assets/slides/happiness-spectrum/page-012.jpg",
+          "alt": "快樂的光譜｜第 12 頁｜1.1.1",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-001.jpg",
+      "pdfPage": 1,
+      "alt": "快樂的光譜｜第 1 頁｜1.1.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.1.2",
+      "kind": "card",
+      "pdfPages": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "pageRange": "13–24",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 13,
+          "image": "/assets/slides/happiness-spectrum/page-013.jpg",
+          "alt": "快樂的光譜｜第 13 頁｜1.1.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 14,
+          "image": "/assets/slides/happiness-spectrum/page-014.jpg",
+          "alt": "快樂的光譜｜第 14 頁｜1.1.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 15,
+          "image": "/assets/slides/happiness-spectrum/page-015.jpg",
+          "alt": "快樂的光譜｜第 15 頁｜1.1.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 16,
+          "image": "/assets/slides/happiness-spectrum/page-016.jpg",
+          "alt": "快樂的光譜｜第 16 頁｜1.1.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 17,
+          "image": "/assets/slides/happiness-spectrum/page-017.jpg",
+          "alt": "快樂的光譜｜第 17 頁｜1.1.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 18,
+          "image": "/assets/slides/happiness-spectrum/page-018.jpg",
+          "alt": "快樂的光譜｜第 18 頁｜1.1.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 19,
+          "image": "/assets/slides/happiness-spectrum/page-019.jpg",
+          "alt": "快樂的光譜｜第 19 頁｜1.1.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 20,
+          "image": "/assets/slides/happiness-spectrum/page-020.jpg",
+          "alt": "快樂的光譜｜第 20 頁｜1.1.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 21,
+          "image": "/assets/slides/happiness-spectrum/page-021.jpg",
+          "alt": "快樂的光譜｜第 21 頁｜1.1.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 22,
+          "image": "/assets/slides/happiness-spectrum/page-022.jpg",
+          "alt": "快樂的光譜｜第 22 頁｜1.1.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 23,
+          "image": "/assets/slides/happiness-spectrum/page-023.jpg",
+          "alt": "快樂的光譜｜第 23 頁｜1.1.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 24,
+          "image": "/assets/slides/happiness-spectrum/page-024.jpg",
+          "alt": "快樂的光譜｜第 24 頁｜1.1.2",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-013.jpg",
+      "pdfPage": 13,
+      "alt": "快樂的光譜｜第 13 頁｜1.1.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.1.3",
+      "kind": "card",
+      "pdfPages": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "pageRange": "25–36",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 25,
+          "image": "/assets/slides/happiness-spectrum/page-025.jpg",
+          "alt": "快樂的光譜｜第 25 頁｜1.1.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 26,
+          "image": "/assets/slides/happiness-spectrum/page-026.jpg",
+          "alt": "快樂的光譜｜第 26 頁｜1.1.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 27,
+          "image": "/assets/slides/happiness-spectrum/page-027.jpg",
+          "alt": "快樂的光譜｜第 27 頁｜1.1.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 28,
+          "image": "/assets/slides/happiness-spectrum/page-028.jpg",
+          "alt": "快樂的光譜｜第 28 頁｜1.1.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 29,
+          "image": "/assets/slides/happiness-spectrum/page-029.jpg",
+          "alt": "快樂的光譜｜第 29 頁｜1.1.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 30,
+          "image": "/assets/slides/happiness-spectrum/page-030.jpg",
+          "alt": "快樂的光譜｜第 30 頁｜1.1.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 31,
+          "image": "/assets/slides/happiness-spectrum/page-031.jpg",
+          "alt": "快樂的光譜｜第 31 頁｜1.1.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 32,
+          "image": "/assets/slides/happiness-spectrum/page-032.jpg",
+          "alt": "快樂的光譜｜第 32 頁｜1.1.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 33,
+          "image": "/assets/slides/happiness-spectrum/page-033.jpg",
+          "alt": "快樂的光譜｜第 33 頁｜1.1.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 34,
+          "image": "/assets/slides/happiness-spectrum/page-034.jpg",
+          "alt": "快樂的光譜｜第 34 頁｜1.1.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 35,
+          "image": "/assets/slides/happiness-spectrum/page-035.jpg",
+          "alt": "快樂的光譜｜第 35 頁｜1.1.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 36,
+          "image": "/assets/slides/happiness-spectrum/page-036.jpg",
+          "alt": "快樂的光譜｜第 36 頁｜1.1.3",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-025.jpg",
+      "pdfPage": 25,
+      "alt": "快樂的光譜｜第 25 頁｜1.1.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.1.4",
+      "kind": "card",
+      "pdfPages": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "pageRange": "37–48",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 37,
+          "image": "/assets/slides/happiness-spectrum/page-037.jpg",
+          "alt": "快樂的光譜｜第 37 頁｜1.1.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 38,
+          "image": "/assets/slides/happiness-spectrum/page-038.jpg",
+          "alt": "快樂的光譜｜第 38 頁｜1.1.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 39,
+          "image": "/assets/slides/happiness-spectrum/page-039.jpg",
+          "alt": "快樂的光譜｜第 39 頁｜1.1.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 40,
+          "image": "/assets/slides/happiness-spectrum/page-040.jpg",
+          "alt": "快樂的光譜｜第 40 頁｜1.1.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 41,
+          "image": "/assets/slides/happiness-spectrum/page-041.jpg",
+          "alt": "快樂的光譜｜第 41 頁｜1.1.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 42,
+          "image": "/assets/slides/happiness-spectrum/page-042.jpg",
+          "alt": "快樂的光譜｜第 42 頁｜1.1.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 43,
+          "image": "/assets/slides/happiness-spectrum/page-043.jpg",
+          "alt": "快樂的光譜｜第 43 頁｜1.1.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 44,
+          "image": "/assets/slides/happiness-spectrum/page-044.jpg",
+          "alt": "快樂的光譜｜第 44 頁｜1.1.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 45,
+          "image": "/assets/slides/happiness-spectrum/page-045.jpg",
+          "alt": "快樂的光譜｜第 45 頁｜1.1.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 46,
+          "image": "/assets/slides/happiness-spectrum/page-046.jpg",
+          "alt": "快樂的光譜｜第 46 頁｜1.1.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 47,
+          "image": "/assets/slides/happiness-spectrum/page-047.jpg",
+          "alt": "快樂的光譜｜第 47 頁｜1.1.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 48,
+          "image": "/assets/slides/happiness-spectrum/page-048.jpg",
+          "alt": "快樂的光譜｜第 48 頁｜1.1.4",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-037.jpg",
+      "pdfPage": 37,
+      "alt": "快樂的光譜｜第 37 頁｜1.1.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.1.5",
+      "kind": "card",
+      "pdfPages": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "pageRange": "49–60",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 49,
+          "image": "/assets/slides/happiness-spectrum/page-049.jpg",
+          "alt": "快樂的光譜｜第 49 頁｜1.1.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 50,
+          "image": "/assets/slides/happiness-spectrum/page-050.jpg",
+          "alt": "快樂的光譜｜第 50 頁｜1.1.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 51,
+          "image": "/assets/slides/happiness-spectrum/page-051.jpg",
+          "alt": "快樂的光譜｜第 51 頁｜1.1.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 52,
+          "image": "/assets/slides/happiness-spectrum/page-052.jpg",
+          "alt": "快樂的光譜｜第 52 頁｜1.1.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 53,
+          "image": "/assets/slides/happiness-spectrum/page-053.jpg",
+          "alt": "快樂的光譜｜第 53 頁｜1.1.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 54,
+          "image": "/assets/slides/happiness-spectrum/page-054.jpg",
+          "alt": "快樂的光譜｜第 54 頁｜1.1.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 55,
+          "image": "/assets/slides/happiness-spectrum/page-055.jpg",
+          "alt": "快樂的光譜｜第 55 頁｜1.1.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 56,
+          "image": "/assets/slides/happiness-spectrum/page-056.jpg",
+          "alt": "快樂的光譜｜第 56 頁｜1.1.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 57,
+          "image": "/assets/slides/happiness-spectrum/page-057.jpg",
+          "alt": "快樂的光譜｜第 57 頁｜1.1.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 58,
+          "image": "/assets/slides/happiness-spectrum/page-058.jpg",
+          "alt": "快樂的光譜｜第 58 頁｜1.1.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 59,
+          "image": "/assets/slides/happiness-spectrum/page-059.jpg",
+          "alt": "快樂的光譜｜第 59 頁｜1.1.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 60,
+          "image": "/assets/slides/happiness-spectrum/page-060.jpg",
+          "alt": "快樂的光譜｜第 60 頁｜1.1.5",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-049.jpg",
+      "pdfPage": 49,
+      "alt": "快樂的光譜｜第 49 頁｜1.1.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.1.6",
+      "kind": "card",
+      "pdfPages": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "pageRange": "61–72",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 61,
+          "image": "/assets/slides/happiness-spectrum/page-061.jpg",
+          "alt": "快樂的光譜｜第 61 頁｜1.1.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 62,
+          "image": "/assets/slides/happiness-spectrum/page-062.jpg",
+          "alt": "快樂的光譜｜第 62 頁｜1.1.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 63,
+          "image": "/assets/slides/happiness-spectrum/page-063.jpg",
+          "alt": "快樂的光譜｜第 63 頁｜1.1.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 64,
+          "image": "/assets/slides/happiness-spectrum/page-064.jpg",
+          "alt": "快樂的光譜｜第 64 頁｜1.1.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 65,
+          "image": "/assets/slides/happiness-spectrum/page-065.jpg",
+          "alt": "快樂的光譜｜第 65 頁｜1.1.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 66,
+          "image": "/assets/slides/happiness-spectrum/page-066.jpg",
+          "alt": "快樂的光譜｜第 66 頁｜1.1.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 67,
+          "image": "/assets/slides/happiness-spectrum/page-067.jpg",
+          "alt": "快樂的光譜｜第 67 頁｜1.1.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 68,
+          "image": "/assets/slides/happiness-spectrum/page-068.jpg",
+          "alt": "快樂的光譜｜第 68 頁｜1.1.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 69,
+          "image": "/assets/slides/happiness-spectrum/page-069.jpg",
+          "alt": "快樂的光譜｜第 69 頁｜1.1.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 70,
+          "image": "/assets/slides/happiness-spectrum/page-070.jpg",
+          "alt": "快樂的光譜｜第 70 頁｜1.1.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 71,
+          "image": "/assets/slides/happiness-spectrum/page-071.jpg",
+          "alt": "快樂的光譜｜第 71 頁｜1.1.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 72,
+          "image": "/assets/slides/happiness-spectrum/page-072.jpg",
+          "alt": "快樂的光譜｜第 72 頁｜1.1.6",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-061.jpg",
+      "pdfPage": 61,
+      "alt": "快樂的光譜｜第 61 頁｜1.1.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.1.7",
+      "kind": "card",
+      "pdfPages": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "pageRange": "73–84",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 73,
+          "image": "/assets/slides/happiness-spectrum/page-073.jpg",
+          "alt": "快樂的光譜｜第 73 頁｜1.1.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 74,
+          "image": "/assets/slides/happiness-spectrum/page-074.jpg",
+          "alt": "快樂的光譜｜第 74 頁｜1.1.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 75,
+          "image": "/assets/slides/happiness-spectrum/page-075.jpg",
+          "alt": "快樂的光譜｜第 75 頁｜1.1.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 76,
+          "image": "/assets/slides/happiness-spectrum/page-076.jpg",
+          "alt": "快樂的光譜｜第 76 頁｜1.1.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 77,
+          "image": "/assets/slides/happiness-spectrum/page-077.jpg",
+          "alt": "快樂的光譜｜第 77 頁｜1.1.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 78,
+          "image": "/assets/slides/happiness-spectrum/page-078.jpg",
+          "alt": "快樂的光譜｜第 78 頁｜1.1.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 79,
+          "image": "/assets/slides/happiness-spectrum/page-079.jpg",
+          "alt": "快樂的光譜｜第 79 頁｜1.1.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 80,
+          "image": "/assets/slides/happiness-spectrum/page-080.jpg",
+          "alt": "快樂的光譜｜第 80 頁｜1.1.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 81,
+          "image": "/assets/slides/happiness-spectrum/page-081.jpg",
+          "alt": "快樂的光譜｜第 81 頁｜1.1.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 82,
+          "image": "/assets/slides/happiness-spectrum/page-082.jpg",
+          "alt": "快樂的光譜｜第 82 頁｜1.1.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 83,
+          "image": "/assets/slides/happiness-spectrum/page-083.jpg",
+          "alt": "快樂的光譜｜第 83 頁｜1.1.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 84,
+          "image": "/assets/slides/happiness-spectrum/page-084.jpg",
+          "alt": "快樂的光譜｜第 84 頁｜1.1.7",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-073.jpg",
+      "pdfPage": 73,
+      "alt": "快樂的光譜｜第 73 頁｜1.1.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.1.8",
+      "kind": "card",
+      "pdfPages": [
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "pageRange": "85–97",
+      "slideCount": 13,
+      "images": [
+        {
+          "pdfPage": 85,
+          "image": "/assets/slides/happiness-spectrum/page-085.jpg",
+          "alt": "快樂的光譜｜第 85 頁｜1.1.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 86,
+          "image": "/assets/slides/happiness-spectrum/page-086.jpg",
+          "alt": "快樂的光譜｜第 86 頁｜1.1.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 87,
+          "image": "/assets/slides/happiness-spectrum/page-087.jpg",
+          "alt": "快樂的光譜｜第 87 頁｜1.1.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 88,
+          "image": "/assets/slides/happiness-spectrum/page-088.jpg",
+          "alt": "快樂的光譜｜第 88 頁｜1.1.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 89,
+          "image": "/assets/slides/happiness-spectrum/page-089.jpg",
+          "alt": "快樂的光譜｜第 89 頁｜1.1.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 90,
+          "image": "/assets/slides/happiness-spectrum/page-090.jpg",
+          "alt": "快樂的光譜｜第 90 頁｜1.1.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 91,
+          "image": "/assets/slides/happiness-spectrum/page-091.jpg",
+          "alt": "快樂的光譜｜第 91 頁｜1.1.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 92,
+          "image": "/assets/slides/happiness-spectrum/page-092.jpg",
+          "alt": "快樂的光譜｜第 92 頁｜1.1.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 93,
+          "image": "/assets/slides/happiness-spectrum/page-093.jpg",
+          "alt": "快樂的光譜｜第 93 頁｜1.1.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 94,
+          "image": "/assets/slides/happiness-spectrum/page-094.jpg",
+          "alt": "快樂的光譜｜第 94 頁｜1.1.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 95,
+          "image": "/assets/slides/happiness-spectrum/page-095.jpg",
+          "alt": "快樂的光譜｜第 95 頁｜1.1.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 96,
+          "image": "/assets/slides/happiness-spectrum/page-096.jpg",
+          "alt": "快樂的光譜｜第 96 頁｜1.1.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 97,
+          "image": "/assets/slides/happiness-spectrum/page-097.jpg",
+          "alt": "快樂的光譜｜第 97 頁｜1.1.8",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-085.jpg",
+      "pdfPage": 85,
+      "alt": "快樂的光譜｜第 85 頁｜1.1.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.2.1",
+      "kind": "card",
+      "pdfPages": [
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "pageRange": "98–109",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 98,
+          "image": "/assets/slides/happiness-spectrum/page-098.jpg",
+          "alt": "快樂的光譜｜第 98 頁｜1.2.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 99,
+          "image": "/assets/slides/happiness-spectrum/page-099.jpg",
+          "alt": "快樂的光譜｜第 99 頁｜1.2.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 100,
+          "image": "/assets/slides/happiness-spectrum/page-100.jpg",
+          "alt": "快樂的光譜｜第 100 頁｜1.2.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 101,
+          "image": "/assets/slides/happiness-spectrum/page-101.jpg",
+          "alt": "快樂的光譜｜第 101 頁｜1.2.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 102,
+          "image": "/assets/slides/happiness-spectrum/page-102.jpg",
+          "alt": "快樂的光譜｜第 102 頁｜1.2.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 103,
+          "image": "/assets/slides/happiness-spectrum/page-103.jpg",
+          "alt": "快樂的光譜｜第 103 頁｜1.2.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 104,
+          "image": "/assets/slides/happiness-spectrum/page-104.jpg",
+          "alt": "快樂的光譜｜第 104 頁｜1.2.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 105,
+          "image": "/assets/slides/happiness-spectrum/page-105.jpg",
+          "alt": "快樂的光譜｜第 105 頁｜1.2.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 106,
+          "image": "/assets/slides/happiness-spectrum/page-106.jpg",
+          "alt": "快樂的光譜｜第 106 頁｜1.2.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 107,
+          "image": "/assets/slides/happiness-spectrum/page-107.jpg",
+          "alt": "快樂的光譜｜第 107 頁｜1.2.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 108,
+          "image": "/assets/slides/happiness-spectrum/page-108.jpg",
+          "alt": "快樂的光譜｜第 108 頁｜1.2.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 109,
+          "image": "/assets/slides/happiness-spectrum/page-109.jpg",
+          "alt": "快樂的光譜｜第 109 頁｜1.2.1",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-098.jpg",
+      "pdfPage": 98,
+      "alt": "快樂的光譜｜第 98 頁｜1.2.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.2.2",
+      "kind": "card",
+      "pdfPages": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121
+      ],
+      "pageRange": "110–121",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 110,
+          "image": "/assets/slides/happiness-spectrum/page-110.jpg",
+          "alt": "快樂的光譜｜第 110 頁｜1.2.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 111,
+          "image": "/assets/slides/happiness-spectrum/page-111.jpg",
+          "alt": "快樂的光譜｜第 111 頁｜1.2.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 112,
+          "image": "/assets/slides/happiness-spectrum/page-112.jpg",
+          "alt": "快樂的光譜｜第 112 頁｜1.2.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 113,
+          "image": "/assets/slides/happiness-spectrum/page-113.jpg",
+          "alt": "快樂的光譜｜第 113 頁｜1.2.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 114,
+          "image": "/assets/slides/happiness-spectrum/page-114.jpg",
+          "alt": "快樂的光譜｜第 114 頁｜1.2.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 115,
+          "image": "/assets/slides/happiness-spectrum/page-115.jpg",
+          "alt": "快樂的光譜｜第 115 頁｜1.2.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 116,
+          "image": "/assets/slides/happiness-spectrum/page-116.jpg",
+          "alt": "快樂的光譜｜第 116 頁｜1.2.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 117,
+          "image": "/assets/slides/happiness-spectrum/page-117.jpg",
+          "alt": "快樂的光譜｜第 117 頁｜1.2.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 118,
+          "image": "/assets/slides/happiness-spectrum/page-118.jpg",
+          "alt": "快樂的光譜｜第 118 頁｜1.2.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 119,
+          "image": "/assets/slides/happiness-spectrum/page-119.jpg",
+          "alt": "快樂的光譜｜第 119 頁｜1.2.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 120,
+          "image": "/assets/slides/happiness-spectrum/page-120.jpg",
+          "alt": "快樂的光譜｜第 120 頁｜1.2.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 121,
+          "image": "/assets/slides/happiness-spectrum/page-121.jpg",
+          "alt": "快樂的光譜｜第 121 頁｜1.2.2",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-110.jpg",
+      "pdfPage": 110,
+      "alt": "快樂的光譜｜第 110 頁｜1.2.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.2.3",
+      "kind": "card",
+      "pdfPages": [
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133
+      ],
+      "pageRange": "122–133",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 122,
+          "image": "/assets/slides/happiness-spectrum/page-122.jpg",
+          "alt": "快樂的光譜｜第 122 頁｜1.2.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 123,
+          "image": "/assets/slides/happiness-spectrum/page-123.jpg",
+          "alt": "快樂的光譜｜第 123 頁｜1.2.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 124,
+          "image": "/assets/slides/happiness-spectrum/page-124.jpg",
+          "alt": "快樂的光譜｜第 124 頁｜1.2.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 125,
+          "image": "/assets/slides/happiness-spectrum/page-125.jpg",
+          "alt": "快樂的光譜｜第 125 頁｜1.2.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 126,
+          "image": "/assets/slides/happiness-spectrum/page-126.jpg",
+          "alt": "快樂的光譜｜第 126 頁｜1.2.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 127,
+          "image": "/assets/slides/happiness-spectrum/page-127.jpg",
+          "alt": "快樂的光譜｜第 127 頁｜1.2.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 128,
+          "image": "/assets/slides/happiness-spectrum/page-128.jpg",
+          "alt": "快樂的光譜｜第 128 頁｜1.2.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 129,
+          "image": "/assets/slides/happiness-spectrum/page-129.jpg",
+          "alt": "快樂的光譜｜第 129 頁｜1.2.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 130,
+          "image": "/assets/slides/happiness-spectrum/page-130.jpg",
+          "alt": "快樂的光譜｜第 130 頁｜1.2.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 131,
+          "image": "/assets/slides/happiness-spectrum/page-131.jpg",
+          "alt": "快樂的光譜｜第 131 頁｜1.2.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 132,
+          "image": "/assets/slides/happiness-spectrum/page-132.jpg",
+          "alt": "快樂的光譜｜第 132 頁｜1.2.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 133,
+          "image": "/assets/slides/happiness-spectrum/page-133.jpg",
+          "alt": "快樂的光譜｜第 133 頁｜1.2.3",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-122.jpg",
+      "pdfPage": 122,
+      "alt": "快樂的光譜｜第 122 頁｜1.2.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.2.4",
+      "kind": "card",
+      "pdfPages": [
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145
+      ],
+      "pageRange": "134–145",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 134,
+          "image": "/assets/slides/happiness-spectrum/page-134.jpg",
+          "alt": "快樂的光譜｜第 134 頁｜1.2.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 135,
+          "image": "/assets/slides/happiness-spectrum/page-135.jpg",
+          "alt": "快樂的光譜｜第 135 頁｜1.2.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 136,
+          "image": "/assets/slides/happiness-spectrum/page-136.jpg",
+          "alt": "快樂的光譜｜第 136 頁｜1.2.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 137,
+          "image": "/assets/slides/happiness-spectrum/page-137.jpg",
+          "alt": "快樂的光譜｜第 137 頁｜1.2.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 138,
+          "image": "/assets/slides/happiness-spectrum/page-138.jpg",
+          "alt": "快樂的光譜｜第 138 頁｜1.2.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 139,
+          "image": "/assets/slides/happiness-spectrum/page-139.jpg",
+          "alt": "快樂的光譜｜第 139 頁｜1.2.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 140,
+          "image": "/assets/slides/happiness-spectrum/page-140.jpg",
+          "alt": "快樂的光譜｜第 140 頁｜1.2.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 141,
+          "image": "/assets/slides/happiness-spectrum/page-141.jpg",
+          "alt": "快樂的光譜｜第 141 頁｜1.2.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 142,
+          "image": "/assets/slides/happiness-spectrum/page-142.jpg",
+          "alt": "快樂的光譜｜第 142 頁｜1.2.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 143,
+          "image": "/assets/slides/happiness-spectrum/page-143.jpg",
+          "alt": "快樂的光譜｜第 143 頁｜1.2.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 144,
+          "image": "/assets/slides/happiness-spectrum/page-144.jpg",
+          "alt": "快樂的光譜｜第 144 頁｜1.2.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 145,
+          "image": "/assets/slides/happiness-spectrum/page-145.jpg",
+          "alt": "快樂的光譜｜第 145 頁｜1.2.4",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-134.jpg",
+      "pdfPage": 134,
+      "alt": "快樂的光譜｜第 134 頁｜1.2.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.2.5",
+      "kind": "card",
+      "pdfPages": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157
+      ],
+      "pageRange": "146–157",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 146,
+          "image": "/assets/slides/happiness-spectrum/page-146.jpg",
+          "alt": "快樂的光譜｜第 146 頁｜1.2.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 147,
+          "image": "/assets/slides/happiness-spectrum/page-147.jpg",
+          "alt": "快樂的光譜｜第 147 頁｜1.2.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 148,
+          "image": "/assets/slides/happiness-spectrum/page-148.jpg",
+          "alt": "快樂的光譜｜第 148 頁｜1.2.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 149,
+          "image": "/assets/slides/happiness-spectrum/page-149.jpg",
+          "alt": "快樂的光譜｜第 149 頁｜1.2.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 150,
+          "image": "/assets/slides/happiness-spectrum/page-150.jpg",
+          "alt": "快樂的光譜｜第 150 頁｜1.2.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 151,
+          "image": "/assets/slides/happiness-spectrum/page-151.jpg",
+          "alt": "快樂的光譜｜第 151 頁｜1.2.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 152,
+          "image": "/assets/slides/happiness-spectrum/page-152.jpg",
+          "alt": "快樂的光譜｜第 152 頁｜1.2.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 153,
+          "image": "/assets/slides/happiness-spectrum/page-153.jpg",
+          "alt": "快樂的光譜｜第 153 頁｜1.2.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 154,
+          "image": "/assets/slides/happiness-spectrum/page-154.jpg",
+          "alt": "快樂的光譜｜第 154 頁｜1.2.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 155,
+          "image": "/assets/slides/happiness-spectrum/page-155.jpg",
+          "alt": "快樂的光譜｜第 155 頁｜1.2.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 156,
+          "image": "/assets/slides/happiness-spectrum/page-156.jpg",
+          "alt": "快樂的光譜｜第 156 頁｜1.2.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 157,
+          "image": "/assets/slides/happiness-spectrum/page-157.jpg",
+          "alt": "快樂的光譜｜第 157 頁｜1.2.5",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-146.jpg",
+      "pdfPage": 146,
+      "alt": "快樂的光譜｜第 146 頁｜1.2.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.2.6",
+      "kind": "card",
+      "pdfPages": [
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169
+      ],
+      "pageRange": "158–169",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 158,
+          "image": "/assets/slides/happiness-spectrum/page-158.jpg",
+          "alt": "快樂的光譜｜第 158 頁｜1.2.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 159,
+          "image": "/assets/slides/happiness-spectrum/page-159.jpg",
+          "alt": "快樂的光譜｜第 159 頁｜1.2.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 160,
+          "image": "/assets/slides/happiness-spectrum/page-160.jpg",
+          "alt": "快樂的光譜｜第 160 頁｜1.2.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 161,
+          "image": "/assets/slides/happiness-spectrum/page-161.jpg",
+          "alt": "快樂的光譜｜第 161 頁｜1.2.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 162,
+          "image": "/assets/slides/happiness-spectrum/page-162.jpg",
+          "alt": "快樂的光譜｜第 162 頁｜1.2.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 163,
+          "image": "/assets/slides/happiness-spectrum/page-163.jpg",
+          "alt": "快樂的光譜｜第 163 頁｜1.2.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 164,
+          "image": "/assets/slides/happiness-spectrum/page-164.jpg",
+          "alt": "快樂的光譜｜第 164 頁｜1.2.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 165,
+          "image": "/assets/slides/happiness-spectrum/page-165.jpg",
+          "alt": "快樂的光譜｜第 165 頁｜1.2.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 166,
+          "image": "/assets/slides/happiness-spectrum/page-166.jpg",
+          "alt": "快樂的光譜｜第 166 頁｜1.2.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 167,
+          "image": "/assets/slides/happiness-spectrum/page-167.jpg",
+          "alt": "快樂的光譜｜第 167 頁｜1.2.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 168,
+          "image": "/assets/slides/happiness-spectrum/page-168.jpg",
+          "alt": "快樂的光譜｜第 168 頁｜1.2.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 169,
+          "image": "/assets/slides/happiness-spectrum/page-169.jpg",
+          "alt": "快樂的光譜｜第 169 頁｜1.2.6",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-158.jpg",
+      "pdfPage": 158,
+      "alt": "快樂的光譜｜第 158 頁｜1.2.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.2.7",
+      "kind": "card",
+      "pdfPages": [
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182
+      ],
+      "pageRange": "170–182",
+      "slideCount": 13,
+      "images": [
+        {
+          "pdfPage": 170,
+          "image": "/assets/slides/happiness-spectrum/page-170.jpg",
+          "alt": "快樂的光譜｜第 170 頁｜1.2.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 171,
+          "image": "/assets/slides/happiness-spectrum/page-171.jpg",
+          "alt": "快樂的光譜｜第 171 頁｜1.2.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 172,
+          "image": "/assets/slides/happiness-spectrum/page-172.jpg",
+          "alt": "快樂的光譜｜第 172 頁｜1.2.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 173,
+          "image": "/assets/slides/happiness-spectrum/page-173.jpg",
+          "alt": "快樂的光譜｜第 173 頁｜1.2.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 174,
+          "image": "/assets/slides/happiness-spectrum/page-174.jpg",
+          "alt": "快樂的光譜｜第 174 頁｜1.2.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 175,
+          "image": "/assets/slides/happiness-spectrum/page-175.jpg",
+          "alt": "快樂的光譜｜第 175 頁｜1.2.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 176,
+          "image": "/assets/slides/happiness-spectrum/page-176.jpg",
+          "alt": "快樂的光譜｜第 176 頁｜1.2.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 177,
+          "image": "/assets/slides/happiness-spectrum/page-177.jpg",
+          "alt": "快樂的光譜｜第 177 頁｜1.2.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 178,
+          "image": "/assets/slides/happiness-spectrum/page-178.jpg",
+          "alt": "快樂的光譜｜第 178 頁｜1.2.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 179,
+          "image": "/assets/slides/happiness-spectrum/page-179.jpg",
+          "alt": "快樂的光譜｜第 179 頁｜1.2.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 180,
+          "image": "/assets/slides/happiness-spectrum/page-180.jpg",
+          "alt": "快樂的光譜｜第 180 頁｜1.2.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 181,
+          "image": "/assets/slides/happiness-spectrum/page-181.jpg",
+          "alt": "快樂的光譜｜第 181 頁｜1.2.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 182,
+          "image": "/assets/slides/happiness-spectrum/page-182.jpg",
+          "alt": "快樂的光譜｜第 182 頁｜1.2.7",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-170.jpg",
+      "pdfPage": 170,
+      "alt": "快樂的光譜｜第 170 頁｜1.2.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.2.8",
+      "kind": "card",
+      "pdfPages": [
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194
+      ],
+      "pageRange": "183–194",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 183,
+          "image": "/assets/slides/happiness-spectrum/page-183.jpg",
+          "alt": "快樂的光譜｜第 183 頁｜1.2.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 184,
+          "image": "/assets/slides/happiness-spectrum/page-184.jpg",
+          "alt": "快樂的光譜｜第 184 頁｜1.2.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 185,
+          "image": "/assets/slides/happiness-spectrum/page-185.jpg",
+          "alt": "快樂的光譜｜第 185 頁｜1.2.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 186,
+          "image": "/assets/slides/happiness-spectrum/page-186.jpg",
+          "alt": "快樂的光譜｜第 186 頁｜1.2.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 187,
+          "image": "/assets/slides/happiness-spectrum/page-187.jpg",
+          "alt": "快樂的光譜｜第 187 頁｜1.2.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 188,
+          "image": "/assets/slides/happiness-spectrum/page-188.jpg",
+          "alt": "快樂的光譜｜第 188 頁｜1.2.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 189,
+          "image": "/assets/slides/happiness-spectrum/page-189.jpg",
+          "alt": "快樂的光譜｜第 189 頁｜1.2.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 190,
+          "image": "/assets/slides/happiness-spectrum/page-190.jpg",
+          "alt": "快樂的光譜｜第 190 頁｜1.2.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 191,
+          "image": "/assets/slides/happiness-spectrum/page-191.jpg",
+          "alt": "快樂的光譜｜第 191 頁｜1.2.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 192,
+          "image": "/assets/slides/happiness-spectrum/page-192.jpg",
+          "alt": "快樂的光譜｜第 192 頁｜1.2.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 193,
+          "image": "/assets/slides/happiness-spectrum/page-193.jpg",
+          "alt": "快樂的光譜｜第 193 頁｜1.2.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 194,
+          "image": "/assets/slides/happiness-spectrum/page-194.jpg",
+          "alt": "快樂的光譜｜第 194 頁｜1.2.8",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-183.jpg",
+      "pdfPage": 183,
+      "alt": "快樂的光譜｜第 183 頁｜1.2.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.3.1",
+      "kind": "card",
+      "pdfPages": [
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206
+      ],
+      "pageRange": "195–206",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 195,
+          "image": "/assets/slides/happiness-spectrum/page-195.jpg",
+          "alt": "快樂的光譜｜第 195 頁｜1.3.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 196,
+          "image": "/assets/slides/happiness-spectrum/page-196.jpg",
+          "alt": "快樂的光譜｜第 196 頁｜1.3.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 197,
+          "image": "/assets/slides/happiness-spectrum/page-197.jpg",
+          "alt": "快樂的光譜｜第 197 頁｜1.3.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 198,
+          "image": "/assets/slides/happiness-spectrum/page-198.jpg",
+          "alt": "快樂的光譜｜第 198 頁｜1.3.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 199,
+          "image": "/assets/slides/happiness-spectrum/page-199.jpg",
+          "alt": "快樂的光譜｜第 199 頁｜1.3.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 200,
+          "image": "/assets/slides/happiness-spectrum/page-200.jpg",
+          "alt": "快樂的光譜｜第 200 頁｜1.3.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 201,
+          "image": "/assets/slides/happiness-spectrum/page-201.jpg",
+          "alt": "快樂的光譜｜第 201 頁｜1.3.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 202,
+          "image": "/assets/slides/happiness-spectrum/page-202.jpg",
+          "alt": "快樂的光譜｜第 202 頁｜1.3.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 203,
+          "image": "/assets/slides/happiness-spectrum/page-203.jpg",
+          "alt": "快樂的光譜｜第 203 頁｜1.3.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 204,
+          "image": "/assets/slides/happiness-spectrum/page-204.jpg",
+          "alt": "快樂的光譜｜第 204 頁｜1.3.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 205,
+          "image": "/assets/slides/happiness-spectrum/page-205.jpg",
+          "alt": "快樂的光譜｜第 205 頁｜1.3.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 206,
+          "image": "/assets/slides/happiness-spectrum/page-206.jpg",
+          "alt": "快樂的光譜｜第 206 頁｜1.3.1",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-195.jpg",
+      "pdfPage": 195,
+      "alt": "快樂的光譜｜第 195 頁｜1.3.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.3.2",
+      "kind": "card",
+      "pdfPages": [
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218
+      ],
+      "pageRange": "207–218",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 207,
+          "image": "/assets/slides/happiness-spectrum/page-207.jpg",
+          "alt": "快樂的光譜｜第 207 頁｜1.3.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 208,
+          "image": "/assets/slides/happiness-spectrum/page-208.jpg",
+          "alt": "快樂的光譜｜第 208 頁｜1.3.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 209,
+          "image": "/assets/slides/happiness-spectrum/page-209.jpg",
+          "alt": "快樂的光譜｜第 209 頁｜1.3.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 210,
+          "image": "/assets/slides/happiness-spectrum/page-210.jpg",
+          "alt": "快樂的光譜｜第 210 頁｜1.3.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 211,
+          "image": "/assets/slides/happiness-spectrum/page-211.jpg",
+          "alt": "快樂的光譜｜第 211 頁｜1.3.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 212,
+          "image": "/assets/slides/happiness-spectrum/page-212.jpg",
+          "alt": "快樂的光譜｜第 212 頁｜1.3.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 213,
+          "image": "/assets/slides/happiness-spectrum/page-213.jpg",
+          "alt": "快樂的光譜｜第 213 頁｜1.3.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 214,
+          "image": "/assets/slides/happiness-spectrum/page-214.jpg",
+          "alt": "快樂的光譜｜第 214 頁｜1.3.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 215,
+          "image": "/assets/slides/happiness-spectrum/page-215.jpg",
+          "alt": "快樂的光譜｜第 215 頁｜1.3.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 216,
+          "image": "/assets/slides/happiness-spectrum/page-216.jpg",
+          "alt": "快樂的光譜｜第 216 頁｜1.3.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 217,
+          "image": "/assets/slides/happiness-spectrum/page-217.jpg",
+          "alt": "快樂的光譜｜第 217 頁｜1.3.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 218,
+          "image": "/assets/slides/happiness-spectrum/page-218.jpg",
+          "alt": "快樂的光譜｜第 218 頁｜1.3.2",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-207.jpg",
+      "pdfPage": 207,
+      "alt": "快樂的光譜｜第 207 頁｜1.3.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.3.3",
+      "kind": "card",
+      "pdfPages": [
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230
+      ],
+      "pageRange": "219–230",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 219,
+          "image": "/assets/slides/happiness-spectrum/page-219.jpg",
+          "alt": "快樂的光譜｜第 219 頁｜1.3.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 220,
+          "image": "/assets/slides/happiness-spectrum/page-220.jpg",
+          "alt": "快樂的光譜｜第 220 頁｜1.3.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 221,
+          "image": "/assets/slides/happiness-spectrum/page-221.jpg",
+          "alt": "快樂的光譜｜第 221 頁｜1.3.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 222,
+          "image": "/assets/slides/happiness-spectrum/page-222.jpg",
+          "alt": "快樂的光譜｜第 222 頁｜1.3.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 223,
+          "image": "/assets/slides/happiness-spectrum/page-223.jpg",
+          "alt": "快樂的光譜｜第 223 頁｜1.3.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 224,
+          "image": "/assets/slides/happiness-spectrum/page-224.jpg",
+          "alt": "快樂的光譜｜第 224 頁｜1.3.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 225,
+          "image": "/assets/slides/happiness-spectrum/page-225.jpg",
+          "alt": "快樂的光譜｜第 225 頁｜1.3.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 226,
+          "image": "/assets/slides/happiness-spectrum/page-226.jpg",
+          "alt": "快樂的光譜｜第 226 頁｜1.3.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 227,
+          "image": "/assets/slides/happiness-spectrum/page-227.jpg",
+          "alt": "快樂的光譜｜第 227 頁｜1.3.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 228,
+          "image": "/assets/slides/happiness-spectrum/page-228.jpg",
+          "alt": "快樂的光譜｜第 228 頁｜1.3.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 229,
+          "image": "/assets/slides/happiness-spectrum/page-229.jpg",
+          "alt": "快樂的光譜｜第 229 頁｜1.3.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 230,
+          "image": "/assets/slides/happiness-spectrum/page-230.jpg",
+          "alt": "快樂的光譜｜第 230 頁｜1.3.3",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-219.jpg",
+      "pdfPage": 219,
+      "alt": "快樂的光譜｜第 219 頁｜1.3.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.3.4",
+      "kind": "card",
+      "pdfPages": [
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242
+      ],
+      "pageRange": "231–242",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 231,
+          "image": "/assets/slides/happiness-spectrum/page-231.jpg",
+          "alt": "快樂的光譜｜第 231 頁｜1.3.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 232,
+          "image": "/assets/slides/happiness-spectrum/page-232.jpg",
+          "alt": "快樂的光譜｜第 232 頁｜1.3.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 233,
+          "image": "/assets/slides/happiness-spectrum/page-233.jpg",
+          "alt": "快樂的光譜｜第 233 頁｜1.3.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 234,
+          "image": "/assets/slides/happiness-spectrum/page-234.jpg",
+          "alt": "快樂的光譜｜第 234 頁｜1.3.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 235,
+          "image": "/assets/slides/happiness-spectrum/page-235.jpg",
+          "alt": "快樂的光譜｜第 235 頁｜1.3.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 236,
+          "image": "/assets/slides/happiness-spectrum/page-236.jpg",
+          "alt": "快樂的光譜｜第 236 頁｜1.3.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 237,
+          "image": "/assets/slides/happiness-spectrum/page-237.jpg",
+          "alt": "快樂的光譜｜第 237 頁｜1.3.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 238,
+          "image": "/assets/slides/happiness-spectrum/page-238.jpg",
+          "alt": "快樂的光譜｜第 238 頁｜1.3.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 239,
+          "image": "/assets/slides/happiness-spectrum/page-239.jpg",
+          "alt": "快樂的光譜｜第 239 頁｜1.3.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 240,
+          "image": "/assets/slides/happiness-spectrum/page-240.jpg",
+          "alt": "快樂的光譜｜第 240 頁｜1.3.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 241,
+          "image": "/assets/slides/happiness-spectrum/page-241.jpg",
+          "alt": "快樂的光譜｜第 241 頁｜1.3.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 242,
+          "image": "/assets/slides/happiness-spectrum/page-242.jpg",
+          "alt": "快樂的光譜｜第 242 頁｜1.3.4",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-231.jpg",
+      "pdfPage": 231,
+      "alt": "快樂的光譜｜第 231 頁｜1.3.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.3.5",
+      "kind": "card",
+      "pdfPages": [
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254
+      ],
+      "pageRange": "243–254",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 243,
+          "image": "/assets/slides/happiness-spectrum/page-243.jpg",
+          "alt": "快樂的光譜｜第 243 頁｜1.3.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 244,
+          "image": "/assets/slides/happiness-spectrum/page-244.jpg",
+          "alt": "快樂的光譜｜第 244 頁｜1.3.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 245,
+          "image": "/assets/slides/happiness-spectrum/page-245.jpg",
+          "alt": "快樂的光譜｜第 245 頁｜1.3.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 246,
+          "image": "/assets/slides/happiness-spectrum/page-246.jpg",
+          "alt": "快樂的光譜｜第 246 頁｜1.3.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 247,
+          "image": "/assets/slides/happiness-spectrum/page-247.jpg",
+          "alt": "快樂的光譜｜第 247 頁｜1.3.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 248,
+          "image": "/assets/slides/happiness-spectrum/page-248.jpg",
+          "alt": "快樂的光譜｜第 248 頁｜1.3.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 249,
+          "image": "/assets/slides/happiness-spectrum/page-249.jpg",
+          "alt": "快樂的光譜｜第 249 頁｜1.3.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 250,
+          "image": "/assets/slides/happiness-spectrum/page-250.jpg",
+          "alt": "快樂的光譜｜第 250 頁｜1.3.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 251,
+          "image": "/assets/slides/happiness-spectrum/page-251.jpg",
+          "alt": "快樂的光譜｜第 251 頁｜1.3.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 252,
+          "image": "/assets/slides/happiness-spectrum/page-252.jpg",
+          "alt": "快樂的光譜｜第 252 頁｜1.3.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 253,
+          "image": "/assets/slides/happiness-spectrum/page-253.jpg",
+          "alt": "快樂的光譜｜第 253 頁｜1.3.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 254,
+          "image": "/assets/slides/happiness-spectrum/page-254.jpg",
+          "alt": "快樂的光譜｜第 254 頁｜1.3.5",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-243.jpg",
+      "pdfPage": 243,
+      "alt": "快樂的光譜｜第 243 頁｜1.3.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.3.6",
+      "kind": "card",
+      "pdfPages": [
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267
+      ],
+      "pageRange": "255–267",
+      "slideCount": 13,
+      "images": [
+        {
+          "pdfPage": 255,
+          "image": "/assets/slides/happiness-spectrum/page-255.jpg",
+          "alt": "快樂的光譜｜第 255 頁｜1.3.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 256,
+          "image": "/assets/slides/happiness-spectrum/page-256.jpg",
+          "alt": "快樂的光譜｜第 256 頁｜1.3.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 257,
+          "image": "/assets/slides/happiness-spectrum/page-257.jpg",
+          "alt": "快樂的光譜｜第 257 頁｜1.3.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 258,
+          "image": "/assets/slides/happiness-spectrum/page-258.jpg",
+          "alt": "快樂的光譜｜第 258 頁｜1.3.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 259,
+          "image": "/assets/slides/happiness-spectrum/page-259.jpg",
+          "alt": "快樂的光譜｜第 259 頁｜1.3.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 260,
+          "image": "/assets/slides/happiness-spectrum/page-260.jpg",
+          "alt": "快樂的光譜｜第 260 頁｜1.3.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 261,
+          "image": "/assets/slides/happiness-spectrum/page-261.jpg",
+          "alt": "快樂的光譜｜第 261 頁｜1.3.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 262,
+          "image": "/assets/slides/happiness-spectrum/page-262.jpg",
+          "alt": "快樂的光譜｜第 262 頁｜1.3.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 263,
+          "image": "/assets/slides/happiness-spectrum/page-263.jpg",
+          "alt": "快樂的光譜｜第 263 頁｜1.3.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 264,
+          "image": "/assets/slides/happiness-spectrum/page-264.jpg",
+          "alt": "快樂的光譜｜第 264 頁｜1.3.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 265,
+          "image": "/assets/slides/happiness-spectrum/page-265.jpg",
+          "alt": "快樂的光譜｜第 265 頁｜1.3.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 266,
+          "image": "/assets/slides/happiness-spectrum/page-266.jpg",
+          "alt": "快樂的光譜｜第 266 頁｜1.3.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 267,
+          "image": "/assets/slides/happiness-spectrum/page-267.jpg",
+          "alt": "快樂的光譜｜第 267 頁｜1.3.6",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-255.jpg",
+      "pdfPage": 255,
+      "alt": "快樂的光譜｜第 255 頁｜1.3.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.3.7",
+      "kind": "card",
+      "pdfPages": [
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279
+      ],
+      "pageRange": "268–279",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 268,
+          "image": "/assets/slides/happiness-spectrum/page-268.jpg",
+          "alt": "快樂的光譜｜第 268 頁｜1.3.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 269,
+          "image": "/assets/slides/happiness-spectrum/page-269.jpg",
+          "alt": "快樂的光譜｜第 269 頁｜1.3.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 270,
+          "image": "/assets/slides/happiness-spectrum/page-270.jpg",
+          "alt": "快樂的光譜｜第 270 頁｜1.3.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 271,
+          "image": "/assets/slides/happiness-spectrum/page-271.jpg",
+          "alt": "快樂的光譜｜第 271 頁｜1.3.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 272,
+          "image": "/assets/slides/happiness-spectrum/page-272.jpg",
+          "alt": "快樂的光譜｜第 272 頁｜1.3.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 273,
+          "image": "/assets/slides/happiness-spectrum/page-273.jpg",
+          "alt": "快樂的光譜｜第 273 頁｜1.3.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 274,
+          "image": "/assets/slides/happiness-spectrum/page-274.jpg",
+          "alt": "快樂的光譜｜第 274 頁｜1.3.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 275,
+          "image": "/assets/slides/happiness-spectrum/page-275.jpg",
+          "alt": "快樂的光譜｜第 275 頁｜1.3.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 276,
+          "image": "/assets/slides/happiness-spectrum/page-276.jpg",
+          "alt": "快樂的光譜｜第 276 頁｜1.3.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 277,
+          "image": "/assets/slides/happiness-spectrum/page-277.jpg",
+          "alt": "快樂的光譜｜第 277 頁｜1.3.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 278,
+          "image": "/assets/slides/happiness-spectrum/page-278.jpg",
+          "alt": "快樂的光譜｜第 278 頁｜1.3.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 279,
+          "image": "/assets/slides/happiness-spectrum/page-279.jpg",
+          "alt": "快樂的光譜｜第 279 頁｜1.3.7",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-268.jpg",
+      "pdfPage": 268,
+      "alt": "快樂的光譜｜第 268 頁｜1.3.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.3.8",
+      "kind": "card",
+      "pdfPages": [
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291
+      ],
+      "pageRange": "280–291",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 280,
+          "image": "/assets/slides/happiness-spectrum/page-280.jpg",
+          "alt": "快樂的光譜｜第 280 頁｜1.3.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 281,
+          "image": "/assets/slides/happiness-spectrum/page-281.jpg",
+          "alt": "快樂的光譜｜第 281 頁｜1.3.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 282,
+          "image": "/assets/slides/happiness-spectrum/page-282.jpg",
+          "alt": "快樂的光譜｜第 282 頁｜1.3.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 283,
+          "image": "/assets/slides/happiness-spectrum/page-283.jpg",
+          "alt": "快樂的光譜｜第 283 頁｜1.3.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 284,
+          "image": "/assets/slides/happiness-spectrum/page-284.jpg",
+          "alt": "快樂的光譜｜第 284 頁｜1.3.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 285,
+          "image": "/assets/slides/happiness-spectrum/page-285.jpg",
+          "alt": "快樂的光譜｜第 285 頁｜1.3.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 286,
+          "image": "/assets/slides/happiness-spectrum/page-286.jpg",
+          "alt": "快樂的光譜｜第 286 頁｜1.3.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 287,
+          "image": "/assets/slides/happiness-spectrum/page-287.jpg",
+          "alt": "快樂的光譜｜第 287 頁｜1.3.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 288,
+          "image": "/assets/slides/happiness-spectrum/page-288.jpg",
+          "alt": "快樂的光譜｜第 288 頁｜1.3.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 289,
+          "image": "/assets/slides/happiness-spectrum/page-289.jpg",
+          "alt": "快樂的光譜｜第 289 頁｜1.3.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 290,
+          "image": "/assets/slides/happiness-spectrum/page-290.jpg",
+          "alt": "快樂的光譜｜第 290 頁｜1.3.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 291,
+          "image": "/assets/slides/happiness-spectrum/page-291.jpg",
+          "alt": "快樂的光譜｜第 291 頁｜1.3.8",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-280.jpg",
+      "pdfPage": 280,
+      "alt": "快樂的光譜｜第 280 頁｜1.3.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.4.1",
+      "kind": "card",
+      "pdfPages": [
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303
+      ],
+      "pageRange": "292–303",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 292,
+          "image": "/assets/slides/happiness-spectrum/page-292.jpg",
+          "alt": "快樂的光譜｜第 292 頁｜1.4.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 293,
+          "image": "/assets/slides/happiness-spectrum/page-293.jpg",
+          "alt": "快樂的光譜｜第 293 頁｜1.4.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 294,
+          "image": "/assets/slides/happiness-spectrum/page-294.jpg",
+          "alt": "快樂的光譜｜第 294 頁｜1.4.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 295,
+          "image": "/assets/slides/happiness-spectrum/page-295.jpg",
+          "alt": "快樂的光譜｜第 295 頁｜1.4.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 296,
+          "image": "/assets/slides/happiness-spectrum/page-296.jpg",
+          "alt": "快樂的光譜｜第 296 頁｜1.4.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 297,
+          "image": "/assets/slides/happiness-spectrum/page-297.jpg",
+          "alt": "快樂的光譜｜第 297 頁｜1.4.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 298,
+          "image": "/assets/slides/happiness-spectrum/page-298.jpg",
+          "alt": "快樂的光譜｜第 298 頁｜1.4.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 299,
+          "image": "/assets/slides/happiness-spectrum/page-299.jpg",
+          "alt": "快樂的光譜｜第 299 頁｜1.4.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 300,
+          "image": "/assets/slides/happiness-spectrum/page-300.jpg",
+          "alt": "快樂的光譜｜第 300 頁｜1.4.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 301,
+          "image": "/assets/slides/happiness-spectrum/page-301.jpg",
+          "alt": "快樂的光譜｜第 301 頁｜1.4.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 302,
+          "image": "/assets/slides/happiness-spectrum/page-302.jpg",
+          "alt": "快樂的光譜｜第 302 頁｜1.4.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 303,
+          "image": "/assets/slides/happiness-spectrum/page-303.jpg",
+          "alt": "快樂的光譜｜第 303 頁｜1.4.1",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-292.jpg",
+      "pdfPage": 292,
+      "alt": "快樂的光譜｜第 292 頁｜1.4.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.4.2",
+      "kind": "card",
+      "pdfPages": [
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315
+      ],
+      "pageRange": "304–315",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 304,
+          "image": "/assets/slides/happiness-spectrum/page-304.jpg",
+          "alt": "快樂的光譜｜第 304 頁｜1.4.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 305,
+          "image": "/assets/slides/happiness-spectrum/page-305.jpg",
+          "alt": "快樂的光譜｜第 305 頁｜1.4.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 306,
+          "image": "/assets/slides/happiness-spectrum/page-306.jpg",
+          "alt": "快樂的光譜｜第 306 頁｜1.4.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 307,
+          "image": "/assets/slides/happiness-spectrum/page-307.jpg",
+          "alt": "快樂的光譜｜第 307 頁｜1.4.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 308,
+          "image": "/assets/slides/happiness-spectrum/page-308.jpg",
+          "alt": "快樂的光譜｜第 308 頁｜1.4.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 309,
+          "image": "/assets/slides/happiness-spectrum/page-309.jpg",
+          "alt": "快樂的光譜｜第 309 頁｜1.4.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 310,
+          "image": "/assets/slides/happiness-spectrum/page-310.jpg",
+          "alt": "快樂的光譜｜第 310 頁｜1.4.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 311,
+          "image": "/assets/slides/happiness-spectrum/page-311.jpg",
+          "alt": "快樂的光譜｜第 311 頁｜1.4.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 312,
+          "image": "/assets/slides/happiness-spectrum/page-312.jpg",
+          "alt": "快樂的光譜｜第 312 頁｜1.4.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 313,
+          "image": "/assets/slides/happiness-spectrum/page-313.jpg",
+          "alt": "快樂的光譜｜第 313 頁｜1.4.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 314,
+          "image": "/assets/slides/happiness-spectrum/page-314.jpg",
+          "alt": "快樂的光譜｜第 314 頁｜1.4.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 315,
+          "image": "/assets/slides/happiness-spectrum/page-315.jpg",
+          "alt": "快樂的光譜｜第 315 頁｜1.4.2",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-304.jpg",
+      "pdfPage": 304,
+      "alt": "快樂的光譜｜第 304 頁｜1.4.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.4.3",
+      "kind": "card",
+      "pdfPages": [
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327
+      ],
+      "pageRange": "316–327",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 316,
+          "image": "/assets/slides/happiness-spectrum/page-316.jpg",
+          "alt": "快樂的光譜｜第 316 頁｜1.4.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 317,
+          "image": "/assets/slides/happiness-spectrum/page-317.jpg",
+          "alt": "快樂的光譜｜第 317 頁｜1.4.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 318,
+          "image": "/assets/slides/happiness-spectrum/page-318.jpg",
+          "alt": "快樂的光譜｜第 318 頁｜1.4.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 319,
+          "image": "/assets/slides/happiness-spectrum/page-319.jpg",
+          "alt": "快樂的光譜｜第 319 頁｜1.4.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 320,
+          "image": "/assets/slides/happiness-spectrum/page-320.jpg",
+          "alt": "快樂的光譜｜第 320 頁｜1.4.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 321,
+          "image": "/assets/slides/happiness-spectrum/page-321.jpg",
+          "alt": "快樂的光譜｜第 321 頁｜1.4.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 322,
+          "image": "/assets/slides/happiness-spectrum/page-322.jpg",
+          "alt": "快樂的光譜｜第 322 頁｜1.4.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 323,
+          "image": "/assets/slides/happiness-spectrum/page-323.jpg",
+          "alt": "快樂的光譜｜第 323 頁｜1.4.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 324,
+          "image": "/assets/slides/happiness-spectrum/page-324.jpg",
+          "alt": "快樂的光譜｜第 324 頁｜1.4.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 325,
+          "image": "/assets/slides/happiness-spectrum/page-325.jpg",
+          "alt": "快樂的光譜｜第 325 頁｜1.4.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 326,
+          "image": "/assets/slides/happiness-spectrum/page-326.jpg",
+          "alt": "快樂的光譜｜第 326 頁｜1.4.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 327,
+          "image": "/assets/slides/happiness-spectrum/page-327.jpg",
+          "alt": "快樂的光譜｜第 327 頁｜1.4.3",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-316.jpg",
+      "pdfPage": 316,
+      "alt": "快樂的光譜｜第 316 頁｜1.4.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.4.4",
+      "kind": "card",
+      "pdfPages": [
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339
+      ],
+      "pageRange": "328–339",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 328,
+          "image": "/assets/slides/happiness-spectrum/page-328.jpg",
+          "alt": "快樂的光譜｜第 328 頁｜1.4.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 329,
+          "image": "/assets/slides/happiness-spectrum/page-329.jpg",
+          "alt": "快樂的光譜｜第 329 頁｜1.4.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 330,
+          "image": "/assets/slides/happiness-spectrum/page-330.jpg",
+          "alt": "快樂的光譜｜第 330 頁｜1.4.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 331,
+          "image": "/assets/slides/happiness-spectrum/page-331.jpg",
+          "alt": "快樂的光譜｜第 331 頁｜1.4.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 332,
+          "image": "/assets/slides/happiness-spectrum/page-332.jpg",
+          "alt": "快樂的光譜｜第 332 頁｜1.4.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 333,
+          "image": "/assets/slides/happiness-spectrum/page-333.jpg",
+          "alt": "快樂的光譜｜第 333 頁｜1.4.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 334,
+          "image": "/assets/slides/happiness-spectrum/page-334.jpg",
+          "alt": "快樂的光譜｜第 334 頁｜1.4.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 335,
+          "image": "/assets/slides/happiness-spectrum/page-335.jpg",
+          "alt": "快樂的光譜｜第 335 頁｜1.4.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 336,
+          "image": "/assets/slides/happiness-spectrum/page-336.jpg",
+          "alt": "快樂的光譜｜第 336 頁｜1.4.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 337,
+          "image": "/assets/slides/happiness-spectrum/page-337.jpg",
+          "alt": "快樂的光譜｜第 337 頁｜1.4.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 338,
+          "image": "/assets/slides/happiness-spectrum/page-338.jpg",
+          "alt": "快樂的光譜｜第 338 頁｜1.4.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 339,
+          "image": "/assets/slides/happiness-spectrum/page-339.jpg",
+          "alt": "快樂的光譜｜第 339 頁｜1.4.4",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-328.jpg",
+      "pdfPage": 328,
+      "alt": "快樂的光譜｜第 328 頁｜1.4.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.4.5",
+      "kind": "card",
+      "pdfPages": [
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352
+      ],
+      "pageRange": "340–352",
+      "slideCount": 13,
+      "images": [
+        {
+          "pdfPage": 340,
+          "image": "/assets/slides/happiness-spectrum/page-340.jpg",
+          "alt": "快樂的光譜｜第 340 頁｜1.4.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 341,
+          "image": "/assets/slides/happiness-spectrum/page-341.jpg",
+          "alt": "快樂的光譜｜第 341 頁｜1.4.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 342,
+          "image": "/assets/slides/happiness-spectrum/page-342.jpg",
+          "alt": "快樂的光譜｜第 342 頁｜1.4.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 343,
+          "image": "/assets/slides/happiness-spectrum/page-343.jpg",
+          "alt": "快樂的光譜｜第 343 頁｜1.4.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 344,
+          "image": "/assets/slides/happiness-spectrum/page-344.jpg",
+          "alt": "快樂的光譜｜第 344 頁｜1.4.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 345,
+          "image": "/assets/slides/happiness-spectrum/page-345.jpg",
+          "alt": "快樂的光譜｜第 345 頁｜1.4.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 346,
+          "image": "/assets/slides/happiness-spectrum/page-346.jpg",
+          "alt": "快樂的光譜｜第 346 頁｜1.4.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 347,
+          "image": "/assets/slides/happiness-spectrum/page-347.jpg",
+          "alt": "快樂的光譜｜第 347 頁｜1.4.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 348,
+          "image": "/assets/slides/happiness-spectrum/page-348.jpg",
+          "alt": "快樂的光譜｜第 348 頁｜1.4.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 349,
+          "image": "/assets/slides/happiness-spectrum/page-349.jpg",
+          "alt": "快樂的光譜｜第 349 頁｜1.4.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 350,
+          "image": "/assets/slides/happiness-spectrum/page-350.jpg",
+          "alt": "快樂的光譜｜第 350 頁｜1.4.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 351,
+          "image": "/assets/slides/happiness-spectrum/page-351.jpg",
+          "alt": "快樂的光譜｜第 351 頁｜1.4.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 352,
+          "image": "/assets/slides/happiness-spectrum/page-352.jpg",
+          "alt": "快樂的光譜｜第 352 頁｜1.4.5",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-340.jpg",
+      "pdfPage": 340,
+      "alt": "快樂的光譜｜第 340 頁｜1.4.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.4.6",
+      "kind": "card",
+      "pdfPages": [
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364
+      ],
+      "pageRange": "353–364",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 353,
+          "image": "/assets/slides/happiness-spectrum/page-353.jpg",
+          "alt": "快樂的光譜｜第 353 頁｜1.4.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 354,
+          "image": "/assets/slides/happiness-spectrum/page-354.jpg",
+          "alt": "快樂的光譜｜第 354 頁｜1.4.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 355,
+          "image": "/assets/slides/happiness-spectrum/page-355.jpg",
+          "alt": "快樂的光譜｜第 355 頁｜1.4.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 356,
+          "image": "/assets/slides/happiness-spectrum/page-356.jpg",
+          "alt": "快樂的光譜｜第 356 頁｜1.4.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 357,
+          "image": "/assets/slides/happiness-spectrum/page-357.jpg",
+          "alt": "快樂的光譜｜第 357 頁｜1.4.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 358,
+          "image": "/assets/slides/happiness-spectrum/page-358.jpg",
+          "alt": "快樂的光譜｜第 358 頁｜1.4.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 359,
+          "image": "/assets/slides/happiness-spectrum/page-359.jpg",
+          "alt": "快樂的光譜｜第 359 頁｜1.4.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 360,
+          "image": "/assets/slides/happiness-spectrum/page-360.jpg",
+          "alt": "快樂的光譜｜第 360 頁｜1.4.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 361,
+          "image": "/assets/slides/happiness-spectrum/page-361.jpg",
+          "alt": "快樂的光譜｜第 361 頁｜1.4.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 362,
+          "image": "/assets/slides/happiness-spectrum/page-362.jpg",
+          "alt": "快樂的光譜｜第 362 頁｜1.4.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 363,
+          "image": "/assets/slides/happiness-spectrum/page-363.jpg",
+          "alt": "快樂的光譜｜第 363 頁｜1.4.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 364,
+          "image": "/assets/slides/happiness-spectrum/page-364.jpg",
+          "alt": "快樂的光譜｜第 364 頁｜1.4.6",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-353.jpg",
+      "pdfPage": 353,
+      "alt": "快樂的光譜｜第 353 頁｜1.4.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.4.7",
+      "kind": "card",
+      "pdfPages": [
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376
+      ],
+      "pageRange": "365–376",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 365,
+          "image": "/assets/slides/happiness-spectrum/page-365.jpg",
+          "alt": "快樂的光譜｜第 365 頁｜1.4.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 366,
+          "image": "/assets/slides/happiness-spectrum/page-366.jpg",
+          "alt": "快樂的光譜｜第 366 頁｜1.4.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 367,
+          "image": "/assets/slides/happiness-spectrum/page-367.jpg",
+          "alt": "快樂的光譜｜第 367 頁｜1.4.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 368,
+          "image": "/assets/slides/happiness-spectrum/page-368.jpg",
+          "alt": "快樂的光譜｜第 368 頁｜1.4.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 369,
+          "image": "/assets/slides/happiness-spectrum/page-369.jpg",
+          "alt": "快樂的光譜｜第 369 頁｜1.4.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 370,
+          "image": "/assets/slides/happiness-spectrum/page-370.jpg",
+          "alt": "快樂的光譜｜第 370 頁｜1.4.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 371,
+          "image": "/assets/slides/happiness-spectrum/page-371.jpg",
+          "alt": "快樂的光譜｜第 371 頁｜1.4.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 372,
+          "image": "/assets/slides/happiness-spectrum/page-372.jpg",
+          "alt": "快樂的光譜｜第 372 頁｜1.4.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 373,
+          "image": "/assets/slides/happiness-spectrum/page-373.jpg",
+          "alt": "快樂的光譜｜第 373 頁｜1.4.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 374,
+          "image": "/assets/slides/happiness-spectrum/page-374.jpg",
+          "alt": "快樂的光譜｜第 374 頁｜1.4.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 375,
+          "image": "/assets/slides/happiness-spectrum/page-375.jpg",
+          "alt": "快樂的光譜｜第 375 頁｜1.4.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 376,
+          "image": "/assets/slides/happiness-spectrum/page-376.jpg",
+          "alt": "快樂的光譜｜第 376 頁｜1.4.7",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-365.jpg",
+      "pdfPage": 365,
+      "alt": "快樂的光譜｜第 365 頁｜1.4.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.4.8",
+      "kind": "card",
+      "pdfPages": [
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388
+      ],
+      "pageRange": "377–388",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 377,
+          "image": "/assets/slides/happiness-spectrum/page-377.jpg",
+          "alt": "快樂的光譜｜第 377 頁｜1.4.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 378,
+          "image": "/assets/slides/happiness-spectrum/page-378.jpg",
+          "alt": "快樂的光譜｜第 378 頁｜1.4.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 379,
+          "image": "/assets/slides/happiness-spectrum/page-379.jpg",
+          "alt": "快樂的光譜｜第 379 頁｜1.4.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 380,
+          "image": "/assets/slides/happiness-spectrum/page-380.jpg",
+          "alt": "快樂的光譜｜第 380 頁｜1.4.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 381,
+          "image": "/assets/slides/happiness-spectrum/page-381.jpg",
+          "alt": "快樂的光譜｜第 381 頁｜1.4.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 382,
+          "image": "/assets/slides/happiness-spectrum/page-382.jpg",
+          "alt": "快樂的光譜｜第 382 頁｜1.4.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 383,
+          "image": "/assets/slides/happiness-spectrum/page-383.jpg",
+          "alt": "快樂的光譜｜第 383 頁｜1.4.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 384,
+          "image": "/assets/slides/happiness-spectrum/page-384.jpg",
+          "alt": "快樂的光譜｜第 384 頁｜1.4.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 385,
+          "image": "/assets/slides/happiness-spectrum/page-385.jpg",
+          "alt": "快樂的光譜｜第 385 頁｜1.4.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 386,
+          "image": "/assets/slides/happiness-spectrum/page-386.jpg",
+          "alt": "快樂的光譜｜第 386 頁｜1.4.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 387,
+          "image": "/assets/slides/happiness-spectrum/page-387.jpg",
+          "alt": "快樂的光譜｜第 387 頁｜1.4.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 388,
+          "image": "/assets/slides/happiness-spectrum/page-388.jpg",
+          "alt": "快樂的光譜｜第 388 頁｜1.4.8",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-377.jpg",
+      "pdfPage": 377,
+      "alt": "快樂的光譜｜第 377 頁｜1.4.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.5.1",
+      "kind": "card",
+      "pdfPages": [
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400
+      ],
+      "pageRange": "389–400",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 389,
+          "image": "/assets/slides/happiness-spectrum/page-389.jpg",
+          "alt": "快樂的光譜｜第 389 頁｜1.5.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 390,
+          "image": "/assets/slides/happiness-spectrum/page-390.jpg",
+          "alt": "快樂的光譜｜第 390 頁｜1.5.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 391,
+          "image": "/assets/slides/happiness-spectrum/page-391.jpg",
+          "alt": "快樂的光譜｜第 391 頁｜1.5.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 392,
+          "image": "/assets/slides/happiness-spectrum/page-392.jpg",
+          "alt": "快樂的光譜｜第 392 頁｜1.5.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 393,
+          "image": "/assets/slides/happiness-spectrum/page-393.jpg",
+          "alt": "快樂的光譜｜第 393 頁｜1.5.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 394,
+          "image": "/assets/slides/happiness-spectrum/page-394.jpg",
+          "alt": "快樂的光譜｜第 394 頁｜1.5.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 395,
+          "image": "/assets/slides/happiness-spectrum/page-395.jpg",
+          "alt": "快樂的光譜｜第 395 頁｜1.5.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 396,
+          "image": "/assets/slides/happiness-spectrum/page-396.jpg",
+          "alt": "快樂的光譜｜第 396 頁｜1.5.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 397,
+          "image": "/assets/slides/happiness-spectrum/page-397.jpg",
+          "alt": "快樂的光譜｜第 397 頁｜1.5.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 398,
+          "image": "/assets/slides/happiness-spectrum/page-398.jpg",
+          "alt": "快樂的光譜｜第 398 頁｜1.5.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 399,
+          "image": "/assets/slides/happiness-spectrum/page-399.jpg",
+          "alt": "快樂的光譜｜第 399 頁｜1.5.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 400,
+          "image": "/assets/slides/happiness-spectrum/page-400.jpg",
+          "alt": "快樂的光譜｜第 400 頁｜1.5.1",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-389.jpg",
+      "pdfPage": 389,
+      "alt": "快樂的光譜｜第 389 頁｜1.5.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.5.2",
+      "kind": "card",
+      "pdfPages": [
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412
+      ],
+      "pageRange": "401–412",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 401,
+          "image": "/assets/slides/happiness-spectrum/page-401.jpg",
+          "alt": "快樂的光譜｜第 401 頁｜1.5.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 402,
+          "image": "/assets/slides/happiness-spectrum/page-402.jpg",
+          "alt": "快樂的光譜｜第 402 頁｜1.5.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 403,
+          "image": "/assets/slides/happiness-spectrum/page-403.jpg",
+          "alt": "快樂的光譜｜第 403 頁｜1.5.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 404,
+          "image": "/assets/slides/happiness-spectrum/page-404.jpg",
+          "alt": "快樂的光譜｜第 404 頁｜1.5.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 405,
+          "image": "/assets/slides/happiness-spectrum/page-405.jpg",
+          "alt": "快樂的光譜｜第 405 頁｜1.5.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 406,
+          "image": "/assets/slides/happiness-spectrum/page-406.jpg",
+          "alt": "快樂的光譜｜第 406 頁｜1.5.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 407,
+          "image": "/assets/slides/happiness-spectrum/page-407.jpg",
+          "alt": "快樂的光譜｜第 407 頁｜1.5.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 408,
+          "image": "/assets/slides/happiness-spectrum/page-408.jpg",
+          "alt": "快樂的光譜｜第 408 頁｜1.5.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 409,
+          "image": "/assets/slides/happiness-spectrum/page-409.jpg",
+          "alt": "快樂的光譜｜第 409 頁｜1.5.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 410,
+          "image": "/assets/slides/happiness-spectrum/page-410.jpg",
+          "alt": "快樂的光譜｜第 410 頁｜1.5.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 411,
+          "image": "/assets/slides/happiness-spectrum/page-411.jpg",
+          "alt": "快樂的光譜｜第 411 頁｜1.5.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 412,
+          "image": "/assets/slides/happiness-spectrum/page-412.jpg",
+          "alt": "快樂的光譜｜第 412 頁｜1.5.2",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-401.jpg",
+      "pdfPage": 401,
+      "alt": "快樂的光譜｜第 401 頁｜1.5.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.5.3",
+      "kind": "card",
+      "pdfPages": [
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424
+      ],
+      "pageRange": "413–424",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 413,
+          "image": "/assets/slides/happiness-spectrum/page-413.jpg",
+          "alt": "快樂的光譜｜第 413 頁｜1.5.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 414,
+          "image": "/assets/slides/happiness-spectrum/page-414.jpg",
+          "alt": "快樂的光譜｜第 414 頁｜1.5.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 415,
+          "image": "/assets/slides/happiness-spectrum/page-415.jpg",
+          "alt": "快樂的光譜｜第 415 頁｜1.5.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 416,
+          "image": "/assets/slides/happiness-spectrum/page-416.jpg",
+          "alt": "快樂的光譜｜第 416 頁｜1.5.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 417,
+          "image": "/assets/slides/happiness-spectrum/page-417.jpg",
+          "alt": "快樂的光譜｜第 417 頁｜1.5.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 418,
+          "image": "/assets/slides/happiness-spectrum/page-418.jpg",
+          "alt": "快樂的光譜｜第 418 頁｜1.5.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 419,
+          "image": "/assets/slides/happiness-spectrum/page-419.jpg",
+          "alt": "快樂的光譜｜第 419 頁｜1.5.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 420,
+          "image": "/assets/slides/happiness-spectrum/page-420.jpg",
+          "alt": "快樂的光譜｜第 420 頁｜1.5.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 421,
+          "image": "/assets/slides/happiness-spectrum/page-421.jpg",
+          "alt": "快樂的光譜｜第 421 頁｜1.5.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 422,
+          "image": "/assets/slides/happiness-spectrum/page-422.jpg",
+          "alt": "快樂的光譜｜第 422 頁｜1.5.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 423,
+          "image": "/assets/slides/happiness-spectrum/page-423.jpg",
+          "alt": "快樂的光譜｜第 423 頁｜1.5.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 424,
+          "image": "/assets/slides/happiness-spectrum/page-424.jpg",
+          "alt": "快樂的光譜｜第 424 頁｜1.5.3",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-413.jpg",
+      "pdfPage": 413,
+      "alt": "快樂的光譜｜第 413 頁｜1.5.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.5.4",
+      "kind": "card",
+      "pdfPages": [
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437
+      ],
+      "pageRange": "425–437",
+      "slideCount": 13,
+      "images": [
+        {
+          "pdfPage": 425,
+          "image": "/assets/slides/happiness-spectrum/page-425.jpg",
+          "alt": "快樂的光譜｜第 425 頁｜1.5.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 426,
+          "image": "/assets/slides/happiness-spectrum/page-426.jpg",
+          "alt": "快樂的光譜｜第 426 頁｜1.5.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 427,
+          "image": "/assets/slides/happiness-spectrum/page-427.jpg",
+          "alt": "快樂的光譜｜第 427 頁｜1.5.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 428,
+          "image": "/assets/slides/happiness-spectrum/page-428.jpg",
+          "alt": "快樂的光譜｜第 428 頁｜1.5.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 429,
+          "image": "/assets/slides/happiness-spectrum/page-429.jpg",
+          "alt": "快樂的光譜｜第 429 頁｜1.5.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 430,
+          "image": "/assets/slides/happiness-spectrum/page-430.jpg",
+          "alt": "快樂的光譜｜第 430 頁｜1.5.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 431,
+          "image": "/assets/slides/happiness-spectrum/page-431.jpg",
+          "alt": "快樂的光譜｜第 431 頁｜1.5.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 432,
+          "image": "/assets/slides/happiness-spectrum/page-432.jpg",
+          "alt": "快樂的光譜｜第 432 頁｜1.5.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 433,
+          "image": "/assets/slides/happiness-spectrum/page-433.jpg",
+          "alt": "快樂的光譜｜第 433 頁｜1.5.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 434,
+          "image": "/assets/slides/happiness-spectrum/page-434.jpg",
+          "alt": "快樂的光譜｜第 434 頁｜1.5.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 435,
+          "image": "/assets/slides/happiness-spectrum/page-435.jpg",
+          "alt": "快樂的光譜｜第 435 頁｜1.5.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 436,
+          "image": "/assets/slides/happiness-spectrum/page-436.jpg",
+          "alt": "快樂的光譜｜第 436 頁｜1.5.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 437,
+          "image": "/assets/slides/happiness-spectrum/page-437.jpg",
+          "alt": "快樂的光譜｜第 437 頁｜1.5.4",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-425.jpg",
+      "pdfPage": 425,
+      "alt": "快樂的光譜｜第 425 頁｜1.5.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.5.5",
+      "kind": "card",
+      "pdfPages": [
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449
+      ],
+      "pageRange": "438–449",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 438,
+          "image": "/assets/slides/happiness-spectrum/page-438.jpg",
+          "alt": "快樂的光譜｜第 438 頁｜1.5.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 439,
+          "image": "/assets/slides/happiness-spectrum/page-439.jpg",
+          "alt": "快樂的光譜｜第 439 頁｜1.5.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 440,
+          "image": "/assets/slides/happiness-spectrum/page-440.jpg",
+          "alt": "快樂的光譜｜第 440 頁｜1.5.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 441,
+          "image": "/assets/slides/happiness-spectrum/page-441.jpg",
+          "alt": "快樂的光譜｜第 441 頁｜1.5.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 442,
+          "image": "/assets/slides/happiness-spectrum/page-442.jpg",
+          "alt": "快樂的光譜｜第 442 頁｜1.5.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 443,
+          "image": "/assets/slides/happiness-spectrum/page-443.jpg",
+          "alt": "快樂的光譜｜第 443 頁｜1.5.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 444,
+          "image": "/assets/slides/happiness-spectrum/page-444.jpg",
+          "alt": "快樂的光譜｜第 444 頁｜1.5.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 445,
+          "image": "/assets/slides/happiness-spectrum/page-445.jpg",
+          "alt": "快樂的光譜｜第 445 頁｜1.5.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 446,
+          "image": "/assets/slides/happiness-spectrum/page-446.jpg",
+          "alt": "快樂的光譜｜第 446 頁｜1.5.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 447,
+          "image": "/assets/slides/happiness-spectrum/page-447.jpg",
+          "alt": "快樂的光譜｜第 447 頁｜1.5.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 448,
+          "image": "/assets/slides/happiness-spectrum/page-448.jpg",
+          "alt": "快樂的光譜｜第 448 頁｜1.5.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 449,
+          "image": "/assets/slides/happiness-spectrum/page-449.jpg",
+          "alt": "快樂的光譜｜第 449 頁｜1.5.5",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-438.jpg",
+      "pdfPage": 438,
+      "alt": "快樂的光譜｜第 438 頁｜1.5.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.5.6",
+      "kind": "card",
+      "pdfPages": [
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461
+      ],
+      "pageRange": "450–461",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 450,
+          "image": "/assets/slides/happiness-spectrum/page-450.jpg",
+          "alt": "快樂的光譜｜第 450 頁｜1.5.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 451,
+          "image": "/assets/slides/happiness-spectrum/page-451.jpg",
+          "alt": "快樂的光譜｜第 451 頁｜1.5.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 452,
+          "image": "/assets/slides/happiness-spectrum/page-452.jpg",
+          "alt": "快樂的光譜｜第 452 頁｜1.5.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 453,
+          "image": "/assets/slides/happiness-spectrum/page-453.jpg",
+          "alt": "快樂的光譜｜第 453 頁｜1.5.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 454,
+          "image": "/assets/slides/happiness-spectrum/page-454.jpg",
+          "alt": "快樂的光譜｜第 454 頁｜1.5.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 455,
+          "image": "/assets/slides/happiness-spectrum/page-455.jpg",
+          "alt": "快樂的光譜｜第 455 頁｜1.5.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 456,
+          "image": "/assets/slides/happiness-spectrum/page-456.jpg",
+          "alt": "快樂的光譜｜第 456 頁｜1.5.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 457,
+          "image": "/assets/slides/happiness-spectrum/page-457.jpg",
+          "alt": "快樂的光譜｜第 457 頁｜1.5.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 458,
+          "image": "/assets/slides/happiness-spectrum/page-458.jpg",
+          "alt": "快樂的光譜｜第 458 頁｜1.5.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 459,
+          "image": "/assets/slides/happiness-spectrum/page-459.jpg",
+          "alt": "快樂的光譜｜第 459 頁｜1.5.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 460,
+          "image": "/assets/slides/happiness-spectrum/page-460.jpg",
+          "alt": "快樂的光譜｜第 460 頁｜1.5.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 461,
+          "image": "/assets/slides/happiness-spectrum/page-461.jpg",
+          "alt": "快樂的光譜｜第 461 頁｜1.5.6",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-450.jpg",
+      "pdfPage": 450,
+      "alt": "快樂的光譜｜第 450 頁｜1.5.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.5.7",
+      "kind": "card",
+      "pdfPages": [
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473
+      ],
+      "pageRange": "462–473",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 462,
+          "image": "/assets/slides/happiness-spectrum/page-462.jpg",
+          "alt": "快樂的光譜｜第 462 頁｜1.5.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 463,
+          "image": "/assets/slides/happiness-spectrum/page-463.jpg",
+          "alt": "快樂的光譜｜第 463 頁｜1.5.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 464,
+          "image": "/assets/slides/happiness-spectrum/page-464.jpg",
+          "alt": "快樂的光譜｜第 464 頁｜1.5.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 465,
+          "image": "/assets/slides/happiness-spectrum/page-465.jpg",
+          "alt": "快樂的光譜｜第 465 頁｜1.5.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 466,
+          "image": "/assets/slides/happiness-spectrum/page-466.jpg",
+          "alt": "快樂的光譜｜第 466 頁｜1.5.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 467,
+          "image": "/assets/slides/happiness-spectrum/page-467.jpg",
+          "alt": "快樂的光譜｜第 467 頁｜1.5.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 468,
+          "image": "/assets/slides/happiness-spectrum/page-468.jpg",
+          "alt": "快樂的光譜｜第 468 頁｜1.5.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 469,
+          "image": "/assets/slides/happiness-spectrum/page-469.jpg",
+          "alt": "快樂的光譜｜第 469 頁｜1.5.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 470,
+          "image": "/assets/slides/happiness-spectrum/page-470.jpg",
+          "alt": "快樂的光譜｜第 470 頁｜1.5.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 471,
+          "image": "/assets/slides/happiness-spectrum/page-471.jpg",
+          "alt": "快樂的光譜｜第 471 頁｜1.5.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 472,
+          "image": "/assets/slides/happiness-spectrum/page-472.jpg",
+          "alt": "快樂的光譜｜第 472 頁｜1.5.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 473,
+          "image": "/assets/slides/happiness-spectrum/page-473.jpg",
+          "alt": "快樂的光譜｜第 473 頁｜1.5.7",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-462.jpg",
+      "pdfPage": 462,
+      "alt": "快樂的光譜｜第 462 頁｜1.5.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.5.8",
+      "kind": "card",
+      "pdfPages": [
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485
+      ],
+      "pageRange": "474–485",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 474,
+          "image": "/assets/slides/happiness-spectrum/page-474.jpg",
+          "alt": "快樂的光譜｜第 474 頁｜1.5.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 475,
+          "image": "/assets/slides/happiness-spectrum/page-475.jpg",
+          "alt": "快樂的光譜｜第 475 頁｜1.5.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 476,
+          "image": "/assets/slides/happiness-spectrum/page-476.jpg",
+          "alt": "快樂的光譜｜第 476 頁｜1.5.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 477,
+          "image": "/assets/slides/happiness-spectrum/page-477.jpg",
+          "alt": "快樂的光譜｜第 477 頁｜1.5.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 478,
+          "image": "/assets/slides/happiness-spectrum/page-478.jpg",
+          "alt": "快樂的光譜｜第 478 頁｜1.5.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 479,
+          "image": "/assets/slides/happiness-spectrum/page-479.jpg",
+          "alt": "快樂的光譜｜第 479 頁｜1.5.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 480,
+          "image": "/assets/slides/happiness-spectrum/page-480.jpg",
+          "alt": "快樂的光譜｜第 480 頁｜1.5.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 481,
+          "image": "/assets/slides/happiness-spectrum/page-481.jpg",
+          "alt": "快樂的光譜｜第 481 頁｜1.5.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 482,
+          "image": "/assets/slides/happiness-spectrum/page-482.jpg",
+          "alt": "快樂的光譜｜第 482 頁｜1.5.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 483,
+          "image": "/assets/slides/happiness-spectrum/page-483.jpg",
+          "alt": "快樂的光譜｜第 483 頁｜1.5.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 484,
+          "image": "/assets/slides/happiness-spectrum/page-484.jpg",
+          "alt": "快樂的光譜｜第 484 頁｜1.5.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 485,
+          "image": "/assets/slides/happiness-spectrum/page-485.jpg",
+          "alt": "快樂的光譜｜第 485 頁｜1.5.8",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-474.jpg",
+      "pdfPage": 474,
+      "alt": "快樂的光譜｜第 474 頁｜1.5.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.6.1",
+      "kind": "card",
+      "pdfPages": [
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497
+      ],
+      "pageRange": "486–497",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 486,
+          "image": "/assets/slides/happiness-spectrum/page-486.jpg",
+          "alt": "快樂的光譜｜第 486 頁｜1.6.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 487,
+          "image": "/assets/slides/happiness-spectrum/page-487.jpg",
+          "alt": "快樂的光譜｜第 487 頁｜1.6.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 488,
+          "image": "/assets/slides/happiness-spectrum/page-488.jpg",
+          "alt": "快樂的光譜｜第 488 頁｜1.6.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 489,
+          "image": "/assets/slides/happiness-spectrum/page-489.jpg",
+          "alt": "快樂的光譜｜第 489 頁｜1.6.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 490,
+          "image": "/assets/slides/happiness-spectrum/page-490.jpg",
+          "alt": "快樂的光譜｜第 490 頁｜1.6.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 491,
+          "image": "/assets/slides/happiness-spectrum/page-491.jpg",
+          "alt": "快樂的光譜｜第 491 頁｜1.6.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 492,
+          "image": "/assets/slides/happiness-spectrum/page-492.jpg",
+          "alt": "快樂的光譜｜第 492 頁｜1.6.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 493,
+          "image": "/assets/slides/happiness-spectrum/page-493.jpg",
+          "alt": "快樂的光譜｜第 493 頁｜1.6.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 494,
+          "image": "/assets/slides/happiness-spectrum/page-494.jpg",
+          "alt": "快樂的光譜｜第 494 頁｜1.6.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 495,
+          "image": "/assets/slides/happiness-spectrum/page-495.jpg",
+          "alt": "快樂的光譜｜第 495 頁｜1.6.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 496,
+          "image": "/assets/slides/happiness-spectrum/page-496.jpg",
+          "alt": "快樂的光譜｜第 496 頁｜1.6.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 497,
+          "image": "/assets/slides/happiness-spectrum/page-497.jpg",
+          "alt": "快樂的光譜｜第 497 頁｜1.6.1",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-486.jpg",
+      "pdfPage": 486,
+      "alt": "快樂的光譜｜第 486 頁｜1.6.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.6.2",
+      "kind": "card",
+      "pdfPages": [
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509
+      ],
+      "pageRange": "498–509",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 498,
+          "image": "/assets/slides/happiness-spectrum/page-498.jpg",
+          "alt": "快樂的光譜｜第 498 頁｜1.6.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 499,
+          "image": "/assets/slides/happiness-spectrum/page-499.jpg",
+          "alt": "快樂的光譜｜第 499 頁｜1.6.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 500,
+          "image": "/assets/slides/happiness-spectrum/page-500.jpg",
+          "alt": "快樂的光譜｜第 500 頁｜1.6.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 501,
+          "image": "/assets/slides/happiness-spectrum/page-501.jpg",
+          "alt": "快樂的光譜｜第 501 頁｜1.6.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 502,
+          "image": "/assets/slides/happiness-spectrum/page-502.jpg",
+          "alt": "快樂的光譜｜第 502 頁｜1.6.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 503,
+          "image": "/assets/slides/happiness-spectrum/page-503.jpg",
+          "alt": "快樂的光譜｜第 503 頁｜1.6.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 504,
+          "image": "/assets/slides/happiness-spectrum/page-504.jpg",
+          "alt": "快樂的光譜｜第 504 頁｜1.6.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 505,
+          "image": "/assets/slides/happiness-spectrum/page-505.jpg",
+          "alt": "快樂的光譜｜第 505 頁｜1.6.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 506,
+          "image": "/assets/slides/happiness-spectrum/page-506.jpg",
+          "alt": "快樂的光譜｜第 506 頁｜1.6.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 507,
+          "image": "/assets/slides/happiness-spectrum/page-507.jpg",
+          "alt": "快樂的光譜｜第 507 頁｜1.6.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 508,
+          "image": "/assets/slides/happiness-spectrum/page-508.jpg",
+          "alt": "快樂的光譜｜第 508 頁｜1.6.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 509,
+          "image": "/assets/slides/happiness-spectrum/page-509.jpg",
+          "alt": "快樂的光譜｜第 509 頁｜1.6.2",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-498.jpg",
+      "pdfPage": 498,
+      "alt": "快樂的光譜｜第 498 頁｜1.6.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.6.3",
+      "kind": "card",
+      "pdfPages": [
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522
+      ],
+      "pageRange": "510–522",
+      "slideCount": 13,
+      "images": [
+        {
+          "pdfPage": 510,
+          "image": "/assets/slides/happiness-spectrum/page-510.jpg",
+          "alt": "快樂的光譜｜第 510 頁｜1.6.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 511,
+          "image": "/assets/slides/happiness-spectrum/page-511.jpg",
+          "alt": "快樂的光譜｜第 511 頁｜1.6.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 512,
+          "image": "/assets/slides/happiness-spectrum/page-512.jpg",
+          "alt": "快樂的光譜｜第 512 頁｜1.6.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 513,
+          "image": "/assets/slides/happiness-spectrum/page-513.jpg",
+          "alt": "快樂的光譜｜第 513 頁｜1.6.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 514,
+          "image": "/assets/slides/happiness-spectrum/page-514.jpg",
+          "alt": "快樂的光譜｜第 514 頁｜1.6.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 515,
+          "image": "/assets/slides/happiness-spectrum/page-515.jpg",
+          "alt": "快樂的光譜｜第 515 頁｜1.6.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 516,
+          "image": "/assets/slides/happiness-spectrum/page-516.jpg",
+          "alt": "快樂的光譜｜第 516 頁｜1.6.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 517,
+          "image": "/assets/slides/happiness-spectrum/page-517.jpg",
+          "alt": "快樂的光譜｜第 517 頁｜1.6.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 518,
+          "image": "/assets/slides/happiness-spectrum/page-518.jpg",
+          "alt": "快樂的光譜｜第 518 頁｜1.6.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 519,
+          "image": "/assets/slides/happiness-spectrum/page-519.jpg",
+          "alt": "快樂的光譜｜第 519 頁｜1.6.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 520,
+          "image": "/assets/slides/happiness-spectrum/page-520.jpg",
+          "alt": "快樂的光譜｜第 520 頁｜1.6.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 521,
+          "image": "/assets/slides/happiness-spectrum/page-521.jpg",
+          "alt": "快樂的光譜｜第 521 頁｜1.6.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 522,
+          "image": "/assets/slides/happiness-spectrum/page-522.jpg",
+          "alt": "快樂的光譜｜第 522 頁｜1.6.3",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-510.jpg",
+      "pdfPage": 510,
+      "alt": "快樂的光譜｜第 510 頁｜1.6.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.6.4",
+      "kind": "card",
+      "pdfPages": [
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534
+      ],
+      "pageRange": "523–534",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 523,
+          "image": "/assets/slides/happiness-spectrum/page-523.jpg",
+          "alt": "快樂的光譜｜第 523 頁｜1.6.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 524,
+          "image": "/assets/slides/happiness-spectrum/page-524.jpg",
+          "alt": "快樂的光譜｜第 524 頁｜1.6.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 525,
+          "image": "/assets/slides/happiness-spectrum/page-525.jpg",
+          "alt": "快樂的光譜｜第 525 頁｜1.6.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 526,
+          "image": "/assets/slides/happiness-spectrum/page-526.jpg",
+          "alt": "快樂的光譜｜第 526 頁｜1.6.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 527,
+          "image": "/assets/slides/happiness-spectrum/page-527.jpg",
+          "alt": "快樂的光譜｜第 527 頁｜1.6.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 528,
+          "image": "/assets/slides/happiness-spectrum/page-528.jpg",
+          "alt": "快樂的光譜｜第 528 頁｜1.6.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 529,
+          "image": "/assets/slides/happiness-spectrum/page-529.jpg",
+          "alt": "快樂的光譜｜第 529 頁｜1.6.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 530,
+          "image": "/assets/slides/happiness-spectrum/page-530.jpg",
+          "alt": "快樂的光譜｜第 530 頁｜1.6.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 531,
+          "image": "/assets/slides/happiness-spectrum/page-531.jpg",
+          "alt": "快樂的光譜｜第 531 頁｜1.6.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 532,
+          "image": "/assets/slides/happiness-spectrum/page-532.jpg",
+          "alt": "快樂的光譜｜第 532 頁｜1.6.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 533,
+          "image": "/assets/slides/happiness-spectrum/page-533.jpg",
+          "alt": "快樂的光譜｜第 533 頁｜1.6.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 534,
+          "image": "/assets/slides/happiness-spectrum/page-534.jpg",
+          "alt": "快樂的光譜｜第 534 頁｜1.6.4",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-523.jpg",
+      "pdfPage": 523,
+      "alt": "快樂的光譜｜第 523 頁｜1.6.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.6.5",
+      "kind": "card",
+      "pdfPages": [
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546
+      ],
+      "pageRange": "535–546",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 535,
+          "image": "/assets/slides/happiness-spectrum/page-535.jpg",
+          "alt": "快樂的光譜｜第 535 頁｜1.6.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 536,
+          "image": "/assets/slides/happiness-spectrum/page-536.jpg",
+          "alt": "快樂的光譜｜第 536 頁｜1.6.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 537,
+          "image": "/assets/slides/happiness-spectrum/page-537.jpg",
+          "alt": "快樂的光譜｜第 537 頁｜1.6.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 538,
+          "image": "/assets/slides/happiness-spectrum/page-538.jpg",
+          "alt": "快樂的光譜｜第 538 頁｜1.6.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 539,
+          "image": "/assets/slides/happiness-spectrum/page-539.jpg",
+          "alt": "快樂的光譜｜第 539 頁｜1.6.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 540,
+          "image": "/assets/slides/happiness-spectrum/page-540.jpg",
+          "alt": "快樂的光譜｜第 540 頁｜1.6.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 541,
+          "image": "/assets/slides/happiness-spectrum/page-541.jpg",
+          "alt": "快樂的光譜｜第 541 頁｜1.6.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 542,
+          "image": "/assets/slides/happiness-spectrum/page-542.jpg",
+          "alt": "快樂的光譜｜第 542 頁｜1.6.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 543,
+          "image": "/assets/slides/happiness-spectrum/page-543.jpg",
+          "alt": "快樂的光譜｜第 543 頁｜1.6.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 544,
+          "image": "/assets/slides/happiness-spectrum/page-544.jpg",
+          "alt": "快樂的光譜｜第 544 頁｜1.6.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 545,
+          "image": "/assets/slides/happiness-spectrum/page-545.jpg",
+          "alt": "快樂的光譜｜第 545 頁｜1.6.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 546,
+          "image": "/assets/slides/happiness-spectrum/page-546.jpg",
+          "alt": "快樂的光譜｜第 546 頁｜1.6.5",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-535.jpg",
+      "pdfPage": 535,
+      "alt": "快樂的光譜｜第 535 頁｜1.6.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.6.6",
+      "kind": "card",
+      "pdfPages": [
+        547,
+        548,
+        549,
+        550,
+        551,
+        552,
+        553,
+        554,
+        555,
+        556,
+        557,
+        558
+      ],
+      "pageRange": "547–558",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 547,
+          "image": "/assets/slides/happiness-spectrum/page-547.jpg",
+          "alt": "快樂的光譜｜第 547 頁｜1.6.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 548,
+          "image": "/assets/slides/happiness-spectrum/page-548.jpg",
+          "alt": "快樂的光譜｜第 548 頁｜1.6.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 549,
+          "image": "/assets/slides/happiness-spectrum/page-549.jpg",
+          "alt": "快樂的光譜｜第 549 頁｜1.6.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 550,
+          "image": "/assets/slides/happiness-spectrum/page-550.jpg",
+          "alt": "快樂的光譜｜第 550 頁｜1.6.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 551,
+          "image": "/assets/slides/happiness-spectrum/page-551.jpg",
+          "alt": "快樂的光譜｜第 551 頁｜1.6.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 552,
+          "image": "/assets/slides/happiness-spectrum/page-552.jpg",
+          "alt": "快樂的光譜｜第 552 頁｜1.6.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 553,
+          "image": "/assets/slides/happiness-spectrum/page-553.jpg",
+          "alt": "快樂的光譜｜第 553 頁｜1.6.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 554,
+          "image": "/assets/slides/happiness-spectrum/page-554.jpg",
+          "alt": "快樂的光譜｜第 554 頁｜1.6.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 555,
+          "image": "/assets/slides/happiness-spectrum/page-555.jpg",
+          "alt": "快樂的光譜｜第 555 頁｜1.6.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 556,
+          "image": "/assets/slides/happiness-spectrum/page-556.jpg",
+          "alt": "快樂的光譜｜第 556 頁｜1.6.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 557,
+          "image": "/assets/slides/happiness-spectrum/page-557.jpg",
+          "alt": "快樂的光譜｜第 557 頁｜1.6.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 558,
+          "image": "/assets/slides/happiness-spectrum/page-558.jpg",
+          "alt": "快樂的光譜｜第 558 頁｜1.6.6",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-547.jpg",
+      "pdfPage": 547,
+      "alt": "快樂的光譜｜第 547 頁｜1.6.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.6.7",
+      "kind": "card",
+      "pdfPages": [
+        559,
+        560,
+        561,
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        568,
+        569,
+        570
+      ],
+      "pageRange": "559–570",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 559,
+          "image": "/assets/slides/happiness-spectrum/page-559.jpg",
+          "alt": "快樂的光譜｜第 559 頁｜1.6.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 560,
+          "image": "/assets/slides/happiness-spectrum/page-560.jpg",
+          "alt": "快樂的光譜｜第 560 頁｜1.6.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 561,
+          "image": "/assets/slides/happiness-spectrum/page-561.jpg",
+          "alt": "快樂的光譜｜第 561 頁｜1.6.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 562,
+          "image": "/assets/slides/happiness-spectrum/page-562.jpg",
+          "alt": "快樂的光譜｜第 562 頁｜1.6.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 563,
+          "image": "/assets/slides/happiness-spectrum/page-563.jpg",
+          "alt": "快樂的光譜｜第 563 頁｜1.6.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 564,
+          "image": "/assets/slides/happiness-spectrum/page-564.jpg",
+          "alt": "快樂的光譜｜第 564 頁｜1.6.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 565,
+          "image": "/assets/slides/happiness-spectrum/page-565.jpg",
+          "alt": "快樂的光譜｜第 565 頁｜1.6.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 566,
+          "image": "/assets/slides/happiness-spectrum/page-566.jpg",
+          "alt": "快樂的光譜｜第 566 頁｜1.6.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 567,
+          "image": "/assets/slides/happiness-spectrum/page-567.jpg",
+          "alt": "快樂的光譜｜第 567 頁｜1.6.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 568,
+          "image": "/assets/slides/happiness-spectrum/page-568.jpg",
+          "alt": "快樂的光譜｜第 568 頁｜1.6.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 569,
+          "image": "/assets/slides/happiness-spectrum/page-569.jpg",
+          "alt": "快樂的光譜｜第 569 頁｜1.6.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 570,
+          "image": "/assets/slides/happiness-spectrum/page-570.jpg",
+          "alt": "快樂的光譜｜第 570 頁｜1.6.7",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-559.jpg",
+      "pdfPage": 559,
+      "alt": "快樂的光譜｜第 559 頁｜1.6.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.6.8",
+      "kind": "card",
+      "pdfPages": [
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582
+      ],
+      "pageRange": "571–582",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 571,
+          "image": "/assets/slides/happiness-spectrum/page-571.jpg",
+          "alt": "快樂的光譜｜第 571 頁｜1.6.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 572,
+          "image": "/assets/slides/happiness-spectrum/page-572.jpg",
+          "alt": "快樂的光譜｜第 572 頁｜1.6.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 573,
+          "image": "/assets/slides/happiness-spectrum/page-573.jpg",
+          "alt": "快樂的光譜｜第 573 頁｜1.6.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 574,
+          "image": "/assets/slides/happiness-spectrum/page-574.jpg",
+          "alt": "快樂的光譜｜第 574 頁｜1.6.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 575,
+          "image": "/assets/slides/happiness-spectrum/page-575.jpg",
+          "alt": "快樂的光譜｜第 575 頁｜1.6.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 576,
+          "image": "/assets/slides/happiness-spectrum/page-576.jpg",
+          "alt": "快樂的光譜｜第 576 頁｜1.6.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 577,
+          "image": "/assets/slides/happiness-spectrum/page-577.jpg",
+          "alt": "快樂的光譜｜第 577 頁｜1.6.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 578,
+          "image": "/assets/slides/happiness-spectrum/page-578.jpg",
+          "alt": "快樂的光譜｜第 578 頁｜1.6.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 579,
+          "image": "/assets/slides/happiness-spectrum/page-579.jpg",
+          "alt": "快樂的光譜｜第 579 頁｜1.6.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 580,
+          "image": "/assets/slides/happiness-spectrum/page-580.jpg",
+          "alt": "快樂的光譜｜第 580 頁｜1.6.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 581,
+          "image": "/assets/slides/happiness-spectrum/page-581.jpg",
+          "alt": "快樂的光譜｜第 581 頁｜1.6.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 582,
+          "image": "/assets/slides/happiness-spectrum/page-582.jpg",
+          "alt": "快樂的光譜｜第 582 頁｜1.6.8",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-571.jpg",
+      "pdfPage": 571,
+      "alt": "快樂的光譜｜第 571 頁｜1.6.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.7.1",
+      "kind": "card",
+      "pdfPages": [
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594
+      ],
+      "pageRange": "583–594",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 583,
+          "image": "/assets/slides/happiness-spectrum/page-583.jpg",
+          "alt": "快樂的光譜｜第 583 頁｜1.7.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 584,
+          "image": "/assets/slides/happiness-spectrum/page-584.jpg",
+          "alt": "快樂的光譜｜第 584 頁｜1.7.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 585,
+          "image": "/assets/slides/happiness-spectrum/page-585.jpg",
+          "alt": "快樂的光譜｜第 585 頁｜1.7.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 586,
+          "image": "/assets/slides/happiness-spectrum/page-586.jpg",
+          "alt": "快樂的光譜｜第 586 頁｜1.7.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 587,
+          "image": "/assets/slides/happiness-spectrum/page-587.jpg",
+          "alt": "快樂的光譜｜第 587 頁｜1.7.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 588,
+          "image": "/assets/slides/happiness-spectrum/page-588.jpg",
+          "alt": "快樂的光譜｜第 588 頁｜1.7.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 589,
+          "image": "/assets/slides/happiness-spectrum/page-589.jpg",
+          "alt": "快樂的光譜｜第 589 頁｜1.7.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 590,
+          "image": "/assets/slides/happiness-spectrum/page-590.jpg",
+          "alt": "快樂的光譜｜第 590 頁｜1.7.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 591,
+          "image": "/assets/slides/happiness-spectrum/page-591.jpg",
+          "alt": "快樂的光譜｜第 591 頁｜1.7.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 592,
+          "image": "/assets/slides/happiness-spectrum/page-592.jpg",
+          "alt": "快樂的光譜｜第 592 頁｜1.7.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 593,
+          "image": "/assets/slides/happiness-spectrum/page-593.jpg",
+          "alt": "快樂的光譜｜第 593 頁｜1.7.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 594,
+          "image": "/assets/slides/happiness-spectrum/page-594.jpg",
+          "alt": "快樂的光譜｜第 594 頁｜1.7.1",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-583.jpg",
+      "pdfPage": 583,
+      "alt": "快樂的光譜｜第 583 頁｜1.7.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.7.2",
+      "kind": "card",
+      "pdfPages": [
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        604,
+        605,
+        606,
+        607
+      ],
+      "pageRange": "595–607",
+      "slideCount": 13,
+      "images": [
+        {
+          "pdfPage": 595,
+          "image": "/assets/slides/happiness-spectrum/page-595.jpg",
+          "alt": "快樂的光譜｜第 595 頁｜1.7.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 596,
+          "image": "/assets/slides/happiness-spectrum/page-596.jpg",
+          "alt": "快樂的光譜｜第 596 頁｜1.7.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 597,
+          "image": "/assets/slides/happiness-spectrum/page-597.jpg",
+          "alt": "快樂的光譜｜第 597 頁｜1.7.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 598,
+          "image": "/assets/slides/happiness-spectrum/page-598.jpg",
+          "alt": "快樂的光譜｜第 598 頁｜1.7.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 599,
+          "image": "/assets/slides/happiness-spectrum/page-599.jpg",
+          "alt": "快樂的光譜｜第 599 頁｜1.7.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 600,
+          "image": "/assets/slides/happiness-spectrum/page-600.jpg",
+          "alt": "快樂的光譜｜第 600 頁｜1.7.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 601,
+          "image": "/assets/slides/happiness-spectrum/page-601.jpg",
+          "alt": "快樂的光譜｜第 601 頁｜1.7.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 602,
+          "image": "/assets/slides/happiness-spectrum/page-602.jpg",
+          "alt": "快樂的光譜｜第 602 頁｜1.7.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 603,
+          "image": "/assets/slides/happiness-spectrum/page-603.jpg",
+          "alt": "快樂的光譜｜第 603 頁｜1.7.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 604,
+          "image": "/assets/slides/happiness-spectrum/page-604.jpg",
+          "alt": "快樂的光譜｜第 604 頁｜1.7.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 605,
+          "image": "/assets/slides/happiness-spectrum/page-605.jpg",
+          "alt": "快樂的光譜｜第 605 頁｜1.7.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 606,
+          "image": "/assets/slides/happiness-spectrum/page-606.jpg",
+          "alt": "快樂的光譜｜第 606 頁｜1.7.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 607,
+          "image": "/assets/slides/happiness-spectrum/page-607.jpg",
+          "alt": "快樂的光譜｜第 607 頁｜1.7.2",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-595.jpg",
+      "pdfPage": 595,
+      "alt": "快樂的光譜｜第 595 頁｜1.7.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.7.3",
+      "kind": "card",
+      "pdfPages": [
+        608,
+        609,
+        610,
+        611,
+        612,
+        613,
+        614,
+        615,
+        616,
+        617,
+        618,
+        619
+      ],
+      "pageRange": "608–619",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 608,
+          "image": "/assets/slides/happiness-spectrum/page-608.jpg",
+          "alt": "快樂的光譜｜第 608 頁｜1.7.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 609,
+          "image": "/assets/slides/happiness-spectrum/page-609.jpg",
+          "alt": "快樂的光譜｜第 609 頁｜1.7.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 610,
+          "image": "/assets/slides/happiness-spectrum/page-610.jpg",
+          "alt": "快樂的光譜｜第 610 頁｜1.7.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 611,
+          "image": "/assets/slides/happiness-spectrum/page-611.jpg",
+          "alt": "快樂的光譜｜第 611 頁｜1.7.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 612,
+          "image": "/assets/slides/happiness-spectrum/page-612.jpg",
+          "alt": "快樂的光譜｜第 612 頁｜1.7.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 613,
+          "image": "/assets/slides/happiness-spectrum/page-613.jpg",
+          "alt": "快樂的光譜｜第 613 頁｜1.7.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 614,
+          "image": "/assets/slides/happiness-spectrum/page-614.jpg",
+          "alt": "快樂的光譜｜第 614 頁｜1.7.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 615,
+          "image": "/assets/slides/happiness-spectrum/page-615.jpg",
+          "alt": "快樂的光譜｜第 615 頁｜1.7.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 616,
+          "image": "/assets/slides/happiness-spectrum/page-616.jpg",
+          "alt": "快樂的光譜｜第 616 頁｜1.7.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 617,
+          "image": "/assets/slides/happiness-spectrum/page-617.jpg",
+          "alt": "快樂的光譜｜第 617 頁｜1.7.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 618,
+          "image": "/assets/slides/happiness-spectrum/page-618.jpg",
+          "alt": "快樂的光譜｜第 618 頁｜1.7.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 619,
+          "image": "/assets/slides/happiness-spectrum/page-619.jpg",
+          "alt": "快樂的光譜｜第 619 頁｜1.7.3",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-608.jpg",
+      "pdfPage": 608,
+      "alt": "快樂的光譜｜第 608 頁｜1.7.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.7.4",
+      "kind": "card",
+      "pdfPages": [
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630,
+        631
+      ],
+      "pageRange": "620–631",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 620,
+          "image": "/assets/slides/happiness-spectrum/page-620.jpg",
+          "alt": "快樂的光譜｜第 620 頁｜1.7.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 621,
+          "image": "/assets/slides/happiness-spectrum/page-621.jpg",
+          "alt": "快樂的光譜｜第 621 頁｜1.7.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 622,
+          "image": "/assets/slides/happiness-spectrum/page-622.jpg",
+          "alt": "快樂的光譜｜第 622 頁｜1.7.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 623,
+          "image": "/assets/slides/happiness-spectrum/page-623.jpg",
+          "alt": "快樂的光譜｜第 623 頁｜1.7.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 624,
+          "image": "/assets/slides/happiness-spectrum/page-624.jpg",
+          "alt": "快樂的光譜｜第 624 頁｜1.7.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 625,
+          "image": "/assets/slides/happiness-spectrum/page-625.jpg",
+          "alt": "快樂的光譜｜第 625 頁｜1.7.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 626,
+          "image": "/assets/slides/happiness-spectrum/page-626.jpg",
+          "alt": "快樂的光譜｜第 626 頁｜1.7.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 627,
+          "image": "/assets/slides/happiness-spectrum/page-627.jpg",
+          "alt": "快樂的光譜｜第 627 頁｜1.7.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 628,
+          "image": "/assets/slides/happiness-spectrum/page-628.jpg",
+          "alt": "快樂的光譜｜第 628 頁｜1.7.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 629,
+          "image": "/assets/slides/happiness-spectrum/page-629.jpg",
+          "alt": "快樂的光譜｜第 629 頁｜1.7.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 630,
+          "image": "/assets/slides/happiness-spectrum/page-630.jpg",
+          "alt": "快樂的光譜｜第 630 頁｜1.7.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 631,
+          "image": "/assets/slides/happiness-spectrum/page-631.jpg",
+          "alt": "快樂的光譜｜第 631 頁｜1.7.4",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-620.jpg",
+      "pdfPage": 620,
+      "alt": "快樂的光譜｜第 620 頁｜1.7.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.7.5",
+      "kind": "card",
+      "pdfPages": [
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643
+      ],
+      "pageRange": "632–643",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 632,
+          "image": "/assets/slides/happiness-spectrum/page-632.jpg",
+          "alt": "快樂的光譜｜第 632 頁｜1.7.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 633,
+          "image": "/assets/slides/happiness-spectrum/page-633.jpg",
+          "alt": "快樂的光譜｜第 633 頁｜1.7.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 634,
+          "image": "/assets/slides/happiness-spectrum/page-634.jpg",
+          "alt": "快樂的光譜｜第 634 頁｜1.7.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 635,
+          "image": "/assets/slides/happiness-spectrum/page-635.jpg",
+          "alt": "快樂的光譜｜第 635 頁｜1.7.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 636,
+          "image": "/assets/slides/happiness-spectrum/page-636.jpg",
+          "alt": "快樂的光譜｜第 636 頁｜1.7.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 637,
+          "image": "/assets/slides/happiness-spectrum/page-637.jpg",
+          "alt": "快樂的光譜｜第 637 頁｜1.7.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 638,
+          "image": "/assets/slides/happiness-spectrum/page-638.jpg",
+          "alt": "快樂的光譜｜第 638 頁｜1.7.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 639,
+          "image": "/assets/slides/happiness-spectrum/page-639.jpg",
+          "alt": "快樂的光譜｜第 639 頁｜1.7.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 640,
+          "image": "/assets/slides/happiness-spectrum/page-640.jpg",
+          "alt": "快樂的光譜｜第 640 頁｜1.7.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 641,
+          "image": "/assets/slides/happiness-spectrum/page-641.jpg",
+          "alt": "快樂的光譜｜第 641 頁｜1.7.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 642,
+          "image": "/assets/slides/happiness-spectrum/page-642.jpg",
+          "alt": "快樂的光譜｜第 642 頁｜1.7.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 643,
+          "image": "/assets/slides/happiness-spectrum/page-643.jpg",
+          "alt": "快樂的光譜｜第 643 頁｜1.7.5",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-632.jpg",
+      "pdfPage": 632,
+      "alt": "快樂的光譜｜第 632 頁｜1.7.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.7.6",
+      "kind": "card",
+      "pdfPages": [
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655
+      ],
+      "pageRange": "644–655",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 644,
+          "image": "/assets/slides/happiness-spectrum/page-644.jpg",
+          "alt": "快樂的光譜｜第 644 頁｜1.7.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 645,
+          "image": "/assets/slides/happiness-spectrum/page-645.jpg",
+          "alt": "快樂的光譜｜第 645 頁｜1.7.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 646,
+          "image": "/assets/slides/happiness-spectrum/page-646.jpg",
+          "alt": "快樂的光譜｜第 646 頁｜1.7.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 647,
+          "image": "/assets/slides/happiness-spectrum/page-647.jpg",
+          "alt": "快樂的光譜｜第 647 頁｜1.7.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 648,
+          "image": "/assets/slides/happiness-spectrum/page-648.jpg",
+          "alt": "快樂的光譜｜第 648 頁｜1.7.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 649,
+          "image": "/assets/slides/happiness-spectrum/page-649.jpg",
+          "alt": "快樂的光譜｜第 649 頁｜1.7.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 650,
+          "image": "/assets/slides/happiness-spectrum/page-650.jpg",
+          "alt": "快樂的光譜｜第 650 頁｜1.7.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 651,
+          "image": "/assets/slides/happiness-spectrum/page-651.jpg",
+          "alt": "快樂的光譜｜第 651 頁｜1.7.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 652,
+          "image": "/assets/slides/happiness-spectrum/page-652.jpg",
+          "alt": "快樂的光譜｜第 652 頁｜1.7.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 653,
+          "image": "/assets/slides/happiness-spectrum/page-653.jpg",
+          "alt": "快樂的光譜｜第 653 頁｜1.7.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 654,
+          "image": "/assets/slides/happiness-spectrum/page-654.jpg",
+          "alt": "快樂的光譜｜第 654 頁｜1.7.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 655,
+          "image": "/assets/slides/happiness-spectrum/page-655.jpg",
+          "alt": "快樂的光譜｜第 655 頁｜1.7.6",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-644.jpg",
+      "pdfPage": 644,
+      "alt": "快樂的光譜｜第 644 頁｜1.7.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.7.7",
+      "kind": "card",
+      "pdfPages": [
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667
+      ],
+      "pageRange": "656–667",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 656,
+          "image": "/assets/slides/happiness-spectrum/page-656.jpg",
+          "alt": "快樂的光譜｜第 656 頁｜1.7.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 657,
+          "image": "/assets/slides/happiness-spectrum/page-657.jpg",
+          "alt": "快樂的光譜｜第 657 頁｜1.7.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 658,
+          "image": "/assets/slides/happiness-spectrum/page-658.jpg",
+          "alt": "快樂的光譜｜第 658 頁｜1.7.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 659,
+          "image": "/assets/slides/happiness-spectrum/page-659.jpg",
+          "alt": "快樂的光譜｜第 659 頁｜1.7.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 660,
+          "image": "/assets/slides/happiness-spectrum/page-660.jpg",
+          "alt": "快樂的光譜｜第 660 頁｜1.7.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 661,
+          "image": "/assets/slides/happiness-spectrum/page-661.jpg",
+          "alt": "快樂的光譜｜第 661 頁｜1.7.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 662,
+          "image": "/assets/slides/happiness-spectrum/page-662.jpg",
+          "alt": "快樂的光譜｜第 662 頁｜1.7.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 663,
+          "image": "/assets/slides/happiness-spectrum/page-663.jpg",
+          "alt": "快樂的光譜｜第 663 頁｜1.7.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 664,
+          "image": "/assets/slides/happiness-spectrum/page-664.jpg",
+          "alt": "快樂的光譜｜第 664 頁｜1.7.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 665,
+          "image": "/assets/slides/happiness-spectrum/page-665.jpg",
+          "alt": "快樂的光譜｜第 665 頁｜1.7.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 666,
+          "image": "/assets/slides/happiness-spectrum/page-666.jpg",
+          "alt": "快樂的光譜｜第 666 頁｜1.7.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 667,
+          "image": "/assets/slides/happiness-spectrum/page-667.jpg",
+          "alt": "快樂的光譜｜第 667 頁｜1.7.7",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-656.jpg",
+      "pdfPage": 656,
+      "alt": "快樂的光譜｜第 656 頁｜1.7.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.7.8",
+      "kind": "card",
+      "pdfPages": [
+        668,
+        669,
+        670,
+        671,
+        672,
+        673,
+        674,
+        675,
+        676,
+        677,
+        678,
+        679
+      ],
+      "pageRange": "668–679",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 668,
+          "image": "/assets/slides/happiness-spectrum/page-668.jpg",
+          "alt": "快樂的光譜｜第 668 頁｜1.7.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 669,
+          "image": "/assets/slides/happiness-spectrum/page-669.jpg",
+          "alt": "快樂的光譜｜第 669 頁｜1.7.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 670,
+          "image": "/assets/slides/happiness-spectrum/page-670.jpg",
+          "alt": "快樂的光譜｜第 670 頁｜1.7.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 671,
+          "image": "/assets/slides/happiness-spectrum/page-671.jpg",
+          "alt": "快樂的光譜｜第 671 頁｜1.7.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 672,
+          "image": "/assets/slides/happiness-spectrum/page-672.jpg",
+          "alt": "快樂的光譜｜第 672 頁｜1.7.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 673,
+          "image": "/assets/slides/happiness-spectrum/page-673.jpg",
+          "alt": "快樂的光譜｜第 673 頁｜1.7.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 674,
+          "image": "/assets/slides/happiness-spectrum/page-674.jpg",
+          "alt": "快樂的光譜｜第 674 頁｜1.7.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 675,
+          "image": "/assets/slides/happiness-spectrum/page-675.jpg",
+          "alt": "快樂的光譜｜第 675 頁｜1.7.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 676,
+          "image": "/assets/slides/happiness-spectrum/page-676.jpg",
+          "alt": "快樂的光譜｜第 676 頁｜1.7.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 677,
+          "image": "/assets/slides/happiness-spectrum/page-677.jpg",
+          "alt": "快樂的光譜｜第 677 頁｜1.7.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 678,
+          "image": "/assets/slides/happiness-spectrum/page-678.jpg",
+          "alt": "快樂的光譜｜第 678 頁｜1.7.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 679,
+          "image": "/assets/slides/happiness-spectrum/page-679.jpg",
+          "alt": "快樂的光譜｜第 679 頁｜1.7.8",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-668.jpg",
+      "pdfPage": 668,
+      "alt": "快樂的光譜｜第 668 頁｜1.7.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.8.1",
+      "kind": "card",
+      "pdfPages": [
+        680,
+        681,
+        682,
+        683,
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692
+      ],
+      "pageRange": "680–692",
+      "slideCount": 13,
+      "images": [
+        {
+          "pdfPage": 680,
+          "image": "/assets/slides/happiness-spectrum/page-680.jpg",
+          "alt": "快樂的光譜｜第 680 頁｜1.8.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 681,
+          "image": "/assets/slides/happiness-spectrum/page-681.jpg",
+          "alt": "快樂的光譜｜第 681 頁｜1.8.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 682,
+          "image": "/assets/slides/happiness-spectrum/page-682.jpg",
+          "alt": "快樂的光譜｜第 682 頁｜1.8.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 683,
+          "image": "/assets/slides/happiness-spectrum/page-683.jpg",
+          "alt": "快樂的光譜｜第 683 頁｜1.8.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 684,
+          "image": "/assets/slides/happiness-spectrum/page-684.jpg",
+          "alt": "快樂的光譜｜第 684 頁｜1.8.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 685,
+          "image": "/assets/slides/happiness-spectrum/page-685.jpg",
+          "alt": "快樂的光譜｜第 685 頁｜1.8.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 686,
+          "image": "/assets/slides/happiness-spectrum/page-686.jpg",
+          "alt": "快樂的光譜｜第 686 頁｜1.8.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 687,
+          "image": "/assets/slides/happiness-spectrum/page-687.jpg",
+          "alt": "快樂的光譜｜第 687 頁｜1.8.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 688,
+          "image": "/assets/slides/happiness-spectrum/page-688.jpg",
+          "alt": "快樂的光譜｜第 688 頁｜1.8.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 689,
+          "image": "/assets/slides/happiness-spectrum/page-689.jpg",
+          "alt": "快樂的光譜｜第 689 頁｜1.8.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 690,
+          "image": "/assets/slides/happiness-spectrum/page-690.jpg",
+          "alt": "快樂的光譜｜第 690 頁｜1.8.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 691,
+          "image": "/assets/slides/happiness-spectrum/page-691.jpg",
+          "alt": "快樂的光譜｜第 691 頁｜1.8.1",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 692,
+          "image": "/assets/slides/happiness-spectrum/page-692.jpg",
+          "alt": "快樂的光譜｜第 692 頁｜1.8.1",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-680.jpg",
+      "pdfPage": 680,
+      "alt": "快樂的光譜｜第 680 頁｜1.8.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.8.2",
+      "kind": "card",
+      "pdfPages": [
+        693,
+        694,
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704
+      ],
+      "pageRange": "693–704",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 693,
+          "image": "/assets/slides/happiness-spectrum/page-693.jpg",
+          "alt": "快樂的光譜｜第 693 頁｜1.8.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 694,
+          "image": "/assets/slides/happiness-spectrum/page-694.jpg",
+          "alt": "快樂的光譜｜第 694 頁｜1.8.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 695,
+          "image": "/assets/slides/happiness-spectrum/page-695.jpg",
+          "alt": "快樂的光譜｜第 695 頁｜1.8.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 696,
+          "image": "/assets/slides/happiness-spectrum/page-696.jpg",
+          "alt": "快樂的光譜｜第 696 頁｜1.8.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 697,
+          "image": "/assets/slides/happiness-spectrum/page-697.jpg",
+          "alt": "快樂的光譜｜第 697 頁｜1.8.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 698,
+          "image": "/assets/slides/happiness-spectrum/page-698.jpg",
+          "alt": "快樂的光譜｜第 698 頁｜1.8.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 699,
+          "image": "/assets/slides/happiness-spectrum/page-699.jpg",
+          "alt": "快樂的光譜｜第 699 頁｜1.8.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 700,
+          "image": "/assets/slides/happiness-spectrum/page-700.jpg",
+          "alt": "快樂的光譜｜第 700 頁｜1.8.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 701,
+          "image": "/assets/slides/happiness-spectrum/page-701.jpg",
+          "alt": "快樂的光譜｜第 701 頁｜1.8.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 702,
+          "image": "/assets/slides/happiness-spectrum/page-702.jpg",
+          "alt": "快樂的光譜｜第 702 頁｜1.8.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 703,
+          "image": "/assets/slides/happiness-spectrum/page-703.jpg",
+          "alt": "快樂的光譜｜第 703 頁｜1.8.2",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 704,
+          "image": "/assets/slides/happiness-spectrum/page-704.jpg",
+          "alt": "快樂的光譜｜第 704 頁｜1.8.2",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-693.jpg",
+      "pdfPage": 693,
+      "alt": "快樂的光譜｜第 693 頁｜1.8.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.8.3",
+      "kind": "card",
+      "pdfPages": [
+        705,
+        706,
+        707,
+        708,
+        709,
+        710,
+        711,
+        712,
+        713,
+        714,
+        715,
+        716
+      ],
+      "pageRange": "705–716",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 705,
+          "image": "/assets/slides/happiness-spectrum/page-705.jpg",
+          "alt": "快樂的光譜｜第 705 頁｜1.8.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 706,
+          "image": "/assets/slides/happiness-spectrum/page-706.jpg",
+          "alt": "快樂的光譜｜第 706 頁｜1.8.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 707,
+          "image": "/assets/slides/happiness-spectrum/page-707.jpg",
+          "alt": "快樂的光譜｜第 707 頁｜1.8.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 708,
+          "image": "/assets/slides/happiness-spectrum/page-708.jpg",
+          "alt": "快樂的光譜｜第 708 頁｜1.8.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 709,
+          "image": "/assets/slides/happiness-spectrum/page-709.jpg",
+          "alt": "快樂的光譜｜第 709 頁｜1.8.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 710,
+          "image": "/assets/slides/happiness-spectrum/page-710.jpg",
+          "alt": "快樂的光譜｜第 710 頁｜1.8.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 711,
+          "image": "/assets/slides/happiness-spectrum/page-711.jpg",
+          "alt": "快樂的光譜｜第 711 頁｜1.8.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 712,
+          "image": "/assets/slides/happiness-spectrum/page-712.jpg",
+          "alt": "快樂的光譜｜第 712 頁｜1.8.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 713,
+          "image": "/assets/slides/happiness-spectrum/page-713.jpg",
+          "alt": "快樂的光譜｜第 713 頁｜1.8.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 714,
+          "image": "/assets/slides/happiness-spectrum/page-714.jpg",
+          "alt": "快樂的光譜｜第 714 頁｜1.8.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 715,
+          "image": "/assets/slides/happiness-spectrum/page-715.jpg",
+          "alt": "快樂的光譜｜第 715 頁｜1.8.3",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 716,
+          "image": "/assets/slides/happiness-spectrum/page-716.jpg",
+          "alt": "快樂的光譜｜第 716 頁｜1.8.3",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-705.jpg",
+      "pdfPage": 705,
+      "alt": "快樂的光譜｜第 705 頁｜1.8.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.8.4",
+      "kind": "card",
+      "pdfPages": [
+        717,
+        718,
+        719,
+        720,
+        721,
+        722,
+        723,
+        724,
+        725,
+        726,
+        727,
+        728
+      ],
+      "pageRange": "717–728",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 717,
+          "image": "/assets/slides/happiness-spectrum/page-717.jpg",
+          "alt": "快樂的光譜｜第 717 頁｜1.8.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 718,
+          "image": "/assets/slides/happiness-spectrum/page-718.jpg",
+          "alt": "快樂的光譜｜第 718 頁｜1.8.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 719,
+          "image": "/assets/slides/happiness-spectrum/page-719.jpg",
+          "alt": "快樂的光譜｜第 719 頁｜1.8.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 720,
+          "image": "/assets/slides/happiness-spectrum/page-720.jpg",
+          "alt": "快樂的光譜｜第 720 頁｜1.8.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 721,
+          "image": "/assets/slides/happiness-spectrum/page-721.jpg",
+          "alt": "快樂的光譜｜第 721 頁｜1.8.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 722,
+          "image": "/assets/slides/happiness-spectrum/page-722.jpg",
+          "alt": "快樂的光譜｜第 722 頁｜1.8.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 723,
+          "image": "/assets/slides/happiness-spectrum/page-723.jpg",
+          "alt": "快樂的光譜｜第 723 頁｜1.8.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 724,
+          "image": "/assets/slides/happiness-spectrum/page-724.jpg",
+          "alt": "快樂的光譜｜第 724 頁｜1.8.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 725,
+          "image": "/assets/slides/happiness-spectrum/page-725.jpg",
+          "alt": "快樂的光譜｜第 725 頁｜1.8.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 726,
+          "image": "/assets/slides/happiness-spectrum/page-726.jpg",
+          "alt": "快樂的光譜｜第 726 頁｜1.8.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 727,
+          "image": "/assets/slides/happiness-spectrum/page-727.jpg",
+          "alt": "快樂的光譜｜第 727 頁｜1.8.4",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 728,
+          "image": "/assets/slides/happiness-spectrum/page-728.jpg",
+          "alt": "快樂的光譜｜第 728 頁｜1.8.4",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-717.jpg",
+      "pdfPage": 717,
+      "alt": "快樂的光譜｜第 717 頁｜1.8.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.8.5",
+      "kind": "card",
+      "pdfPages": [
+        729,
+        730,
+        731,
+        732,
+        733,
+        734,
+        735,
+        736,
+        737,
+        738,
+        739,
+        740
+      ],
+      "pageRange": "729–740",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 729,
+          "image": "/assets/slides/happiness-spectrum/page-729.jpg",
+          "alt": "快樂的光譜｜第 729 頁｜1.8.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 730,
+          "image": "/assets/slides/happiness-spectrum/page-730.jpg",
+          "alt": "快樂的光譜｜第 730 頁｜1.8.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 731,
+          "image": "/assets/slides/happiness-spectrum/page-731.jpg",
+          "alt": "快樂的光譜｜第 731 頁｜1.8.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 732,
+          "image": "/assets/slides/happiness-spectrum/page-732.jpg",
+          "alt": "快樂的光譜｜第 732 頁｜1.8.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 733,
+          "image": "/assets/slides/happiness-spectrum/page-733.jpg",
+          "alt": "快樂的光譜｜第 733 頁｜1.8.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 734,
+          "image": "/assets/slides/happiness-spectrum/page-734.jpg",
+          "alt": "快樂的光譜｜第 734 頁｜1.8.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 735,
+          "image": "/assets/slides/happiness-spectrum/page-735.jpg",
+          "alt": "快樂的光譜｜第 735 頁｜1.8.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 736,
+          "image": "/assets/slides/happiness-spectrum/page-736.jpg",
+          "alt": "快樂的光譜｜第 736 頁｜1.8.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 737,
+          "image": "/assets/slides/happiness-spectrum/page-737.jpg",
+          "alt": "快樂的光譜｜第 737 頁｜1.8.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 738,
+          "image": "/assets/slides/happiness-spectrum/page-738.jpg",
+          "alt": "快樂的光譜｜第 738 頁｜1.8.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 739,
+          "image": "/assets/slides/happiness-spectrum/page-739.jpg",
+          "alt": "快樂的光譜｜第 739 頁｜1.8.5",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 740,
+          "image": "/assets/slides/happiness-spectrum/page-740.jpg",
+          "alt": "快樂的光譜｜第 740 頁｜1.8.5",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-729.jpg",
+      "pdfPage": 729,
+      "alt": "快樂的光譜｜第 729 頁｜1.8.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.8.6",
+      "kind": "card",
+      "pdfPages": [
+        741,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751,
+        752
+      ],
+      "pageRange": "741–752",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 741,
+          "image": "/assets/slides/happiness-spectrum/page-741.jpg",
+          "alt": "快樂的光譜｜第 741 頁｜1.8.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 742,
+          "image": "/assets/slides/happiness-spectrum/page-742.jpg",
+          "alt": "快樂的光譜｜第 742 頁｜1.8.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 743,
+          "image": "/assets/slides/happiness-spectrum/page-743.jpg",
+          "alt": "快樂的光譜｜第 743 頁｜1.8.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 744,
+          "image": "/assets/slides/happiness-spectrum/page-744.jpg",
+          "alt": "快樂的光譜｜第 744 頁｜1.8.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 745,
+          "image": "/assets/slides/happiness-spectrum/page-745.jpg",
+          "alt": "快樂的光譜｜第 745 頁｜1.8.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 746,
+          "image": "/assets/slides/happiness-spectrum/page-746.jpg",
+          "alt": "快樂的光譜｜第 746 頁｜1.8.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 747,
+          "image": "/assets/slides/happiness-spectrum/page-747.jpg",
+          "alt": "快樂的光譜｜第 747 頁｜1.8.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 748,
+          "image": "/assets/slides/happiness-spectrum/page-748.jpg",
+          "alt": "快樂的光譜｜第 748 頁｜1.8.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 749,
+          "image": "/assets/slides/happiness-spectrum/page-749.jpg",
+          "alt": "快樂的光譜｜第 749 頁｜1.8.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 750,
+          "image": "/assets/slides/happiness-spectrum/page-750.jpg",
+          "alt": "快樂的光譜｜第 750 頁｜1.8.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 751,
+          "image": "/assets/slides/happiness-spectrum/page-751.jpg",
+          "alt": "快樂的光譜｜第 751 頁｜1.8.6",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 752,
+          "image": "/assets/slides/happiness-spectrum/page-752.jpg",
+          "alt": "快樂的光譜｜第 752 頁｜1.8.6",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-741.jpg",
+      "pdfPage": 741,
+      "alt": "快樂的光譜｜第 741 頁｜1.8.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.8.7",
+      "kind": "card",
+      "pdfPages": [
+        753,
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764
+      ],
+      "pageRange": "753–764",
+      "slideCount": 12,
+      "images": [
+        {
+          "pdfPage": 753,
+          "image": "/assets/slides/happiness-spectrum/page-753.jpg",
+          "alt": "快樂的光譜｜第 753 頁｜1.8.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 754,
+          "image": "/assets/slides/happiness-spectrum/page-754.jpg",
+          "alt": "快樂的光譜｜第 754 頁｜1.8.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 755,
+          "image": "/assets/slides/happiness-spectrum/page-755.jpg",
+          "alt": "快樂的光譜｜第 755 頁｜1.8.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 756,
+          "image": "/assets/slides/happiness-spectrum/page-756.jpg",
+          "alt": "快樂的光譜｜第 756 頁｜1.8.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 757,
+          "image": "/assets/slides/happiness-spectrum/page-757.jpg",
+          "alt": "快樂的光譜｜第 757 頁｜1.8.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 758,
+          "image": "/assets/slides/happiness-spectrum/page-758.jpg",
+          "alt": "快樂的光譜｜第 758 頁｜1.8.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 759,
+          "image": "/assets/slides/happiness-spectrum/page-759.jpg",
+          "alt": "快樂的光譜｜第 759 頁｜1.8.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 760,
+          "image": "/assets/slides/happiness-spectrum/page-760.jpg",
+          "alt": "快樂的光譜｜第 760 頁｜1.8.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 761,
+          "image": "/assets/slides/happiness-spectrum/page-761.jpg",
+          "alt": "快樂的光譜｜第 761 頁｜1.8.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 762,
+          "image": "/assets/slides/happiness-spectrum/page-762.jpg",
+          "alt": "快樂的光譜｜第 762 頁｜1.8.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 763,
+          "image": "/assets/slides/happiness-spectrum/page-763.jpg",
+          "alt": "快樂的光譜｜第 763 頁｜1.8.7",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 764,
+          "image": "/assets/slides/happiness-spectrum/page-764.jpg",
+          "alt": "快樂的光譜｜第 764 頁｜1.8.7",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-753.jpg",
+      "pdfPage": 753,
+      "alt": "快樂的光譜｜第 753 頁｜1.8.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "happiness-spectrum-20251108",
+      "gridId": "1.8.8",
+      "kind": "card",
+      "pdfPages": [
+        765,
+        766,
+        767,
+        768,
+        769,
+        770,
+        771,
+        772,
+        773,
+        774,
+        775,
+        776,
+        777
+      ],
+      "pageRange": "765–777",
+      "slideCount": 13,
+      "images": [
+        {
+          "pdfPage": 765,
+          "image": "/assets/slides/happiness-spectrum/page-765.jpg",
+          "alt": "快樂的光譜｜第 765 頁｜1.8.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 766,
+          "image": "/assets/slides/happiness-spectrum/page-766.jpg",
+          "alt": "快樂的光譜｜第 766 頁｜1.8.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 767,
+          "image": "/assets/slides/happiness-spectrum/page-767.jpg",
+          "alt": "快樂的光譜｜第 767 頁｜1.8.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 768,
+          "image": "/assets/slides/happiness-spectrum/page-768.jpg",
+          "alt": "快樂的光譜｜第 768 頁｜1.8.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 769,
+          "image": "/assets/slides/happiness-spectrum/page-769.jpg",
+          "alt": "快樂的光譜｜第 769 頁｜1.8.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 770,
+          "image": "/assets/slides/happiness-spectrum/page-770.jpg",
+          "alt": "快樂的光譜｜第 770 頁｜1.8.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 771,
+          "image": "/assets/slides/happiness-spectrum/page-771.jpg",
+          "alt": "快樂的光譜｜第 771 頁｜1.8.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 772,
+          "image": "/assets/slides/happiness-spectrum/page-772.jpg",
+          "alt": "快樂的光譜｜第 772 頁｜1.8.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 773,
+          "image": "/assets/slides/happiness-spectrum/page-773.jpg",
+          "alt": "快樂的光譜｜第 773 頁｜1.8.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 774,
+          "image": "/assets/slides/happiness-spectrum/page-774.jpg",
+          "alt": "快樂的光譜｜第 774 頁｜1.8.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 775,
+          "image": "/assets/slides/happiness-spectrum/page-775.jpg",
+          "alt": "快樂的光譜｜第 775 頁｜1.8.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 776,
+          "image": "/assets/slides/happiness-spectrum/page-776.jpg",
+          "alt": "快樂的光譜｜第 776 頁｜1.8.8",
+          "fit": "contain"
+        },
+        {
+          "pdfPage": 777,
+          "image": "/assets/slides/happiness-spectrum/page-777.jpg",
+          "alt": "快樂的光譜｜第 777 頁｜1.8.8",
+          "fit": "contain"
+        }
+      ],
+      "image": "/assets/slides/happiness-spectrum/page-765.jpg",
+      "pdfPage": 765,
+      "alt": "快樂的光譜｜第 765 頁｜1.8.8",
+      "fit": "contain"
+    }
+  ]
+}

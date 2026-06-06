@@ -3,6 +3,7 @@ const state = {
   talkIndex: 0,
   sectionIndex: 0,
   cardIndex: 0,
+  imageIndex: 0,
   showBlank: true,
 };
 
@@ -13,16 +14,21 @@ document.addEventListener("DOMContentLoaded", async () => {
   bindEvents();
 
   try {
-    const [talksResponse, imagesResponse] = await Promise.all([
+    const [talksResponse, ...imageResponses] = await Promise.all([
       fetch("data/talks.json"),
       fetch("data/slide-images-brushup-life-1.json"),
+      fetch("data/slide-images-happiness-spectrum.json"),
     ]);
     if (!talksResponse.ok) throw new Error(`talks.json HTTP ${talksResponse.status}`);
-    if (!imagesResponse.ok) throw new Error(`slide images HTTP ${imagesResponse.status}`);
-    const [data, imageData] = await Promise.all([talksResponse.json(), imagesResponse.json()]);
+    const failedImages = imageResponses.find((response) => !response.ok);
+    if (failedImages) throw new Error(`slide images HTTP ${failedImages.status}`);
+    const [data, ...imageDataList] = await Promise.all([
+      talksResponse.json(),
+      ...imageResponses.map((response) => response.json()),
+    ]);
     state.talks = data.talks || [];
     if (!state.talks.length) throw new Error("找不到 talks 資料");
-    mergeSlideImages(imageData.mapping || []);
+    imageDataList.forEach((imageData) => mergeSlideImages(imageData.mapping || []));
     selectFirstReadableCard();
     render();
   } catch (error) {
@@ -36,7 +42,8 @@ function cacheElements() {
   [
     "archiveCount", "talkList", "sectionCount", "sectionList", "centerTitle", "centerContent",
     "cardGridId", "cardSectionLabel", "cardTitle", "cardContent", "cardStatus", "cardSource",
-    "cardImageWrap", "cardImage", "cardImageCaption",
+    "cardImageWrap", "cardImageControls", "cardImage", "cardImageCaption", "cardImageCounter",
+    "imagePrevButton", "imageNextButton",
     "positiveKeywords", "cardLocation", "sourceShort", "quickTalk", "quickSection", "quickCard",
     "sectionSelect", "trailHeading", "trailList", "blankToggle", "previousButton", "nextButton",
     "copyButton", "draftButton", "searchCell", "searchDialog", "searchInput", "searchResults",
@@ -47,6 +54,8 @@ function cacheElements() {
 function bindEvents() {
   el.previousButton.addEventListener("click", () => moveCard(-1));
   el.nextButton.addEventListener("click", () => moveCard(1));
+  el.imagePrevButton.addEventListener("click", () => moveImage(-1));
+  el.imageNextButton.addEventListener("click", () => moveImage(1));
   el.copyButton.addEventListener("click", copyCurrentCard);
   el.draftButton.addEventListener("click", () => showToast("AI 草稿功能將在下一階段接上；MVP 先保留入口。"));
   el.searchCell.addEventListener("click", openSearch);
@@ -59,6 +68,7 @@ function bindEvents() {
     const [talkIndex, sectionIndex] = el.sectionSelect.value.split(":").map(Number);
     state.talkIndex = talkIndex;
     state.sectionIndex = sectionIndex;
+    state.imageIndex = 0;
     selectFirstReadableCard();
     render();
     closeMobilePanels();
@@ -110,10 +120,21 @@ function mergeSlideImages(mapping) {
     }
 
     if (!node) return;
-    node.image = item.image ? item.image.replace(/^\/assets\//, "public/assets/") : "";
-    node.pdfPage = item.pdfPage;
-    node.imageAlt = item.alt;
-    node.imageFit = item.fit;
+    const images = (item.images || (item.image ? [item] : []))
+      .filter((image) => image.image)
+      .map((image) => ({
+        pdfPage: image.pdfPage,
+        image: image.image.replace(/^\/assets\//, "public/assets/"),
+        alt: image.alt,
+        fit: image.fit || item.fit || "contain",
+      }));
+    node.images = images;
+    node.image = images[0]?.image || "";
+    node.pdfPage = images[0]?.pdfPage ?? item.pdfPage;
+    node.imageAlt = images[0]?.alt || item.alt;
+    node.imageFit = images[0]?.fit || item.fit;
+    node.pageRange = item.pageRange;
+    node.slideCount = item.slideCount || images.length;
   });
 }
 
@@ -144,6 +165,7 @@ function renderTalks() {
     button.addEventListener("click", () => {
       state.talkIndex = index;
       state.sectionIndex = 0;
+      state.imageIndex = 0;
       selectFirstReadableCard();
       render();
     });
@@ -164,6 +186,7 @@ function renderSections() {
     button.innerHTML = `<b>${escapeHtml(section.id)}</b><span>${escapeHtml(section.title)}</span><i>›</i>`;
     button.addEventListener("click", () => {
       state.sectionIndex = index;
+      state.imageIndex = 0;
       selectFirstReadableCard();
       render();
       closeMobilePanels();
@@ -195,21 +218,32 @@ function renderCard() {
   const card = currentCard();
   const displayTitle = card.isBlank ? "此格空白" : card.title;
   const displayContent = card.isBlank ? "此格空白" : card.content;
+  const cardImages = getCardImages(card);
+  state.imageIndex = Math.min(state.imageIndex, Math.max(cardImages.length - 1, 0));
+  const activeImage = cardImages[state.imageIndex];
 
   el.cardGridId.textContent = card.gridId;
   el.cardSectionLabel.textContent = `Section ${section.id} · ${section.title}`;
   el.cardTitle.textContent = displayTitle;
   el.cardContent.textContent = displayContent;
   el.cardContent.classList.toggle("blank", card.isBlank);
-  el.cardImageWrap.hidden = !card.image;
-  if (card.image) {
-    el.cardImage.src = card.image;
-    el.cardImage.alt = card.imageAlt || `${talk.title} ${card.gridId}`;
-    el.cardImage.style.objectFit = card.imageFit || "contain";
-    el.cardImageCaption.textContent = `PDF 第 ${card.pdfPage} 頁`;
+  el.cardImageWrap.hidden = !activeImage;
+  if (activeImage) {
+    el.cardImage.src = activeImage.image;
+    el.cardImage.alt = activeImage.alt || `${talk.title} ${card.gridId}`;
+    el.cardImage.style.objectFit = activeImage.fit || "contain";
+    el.cardImageControls.hidden = cardImages.length <= 1;
+    el.cardImageCounter.textContent = `投影片 ${state.imageIndex + 1} / ${cardImages.length}`;
+    el.imagePrevButton.disabled = state.imageIndex === 0;
+    el.imageNextButton.disabled = state.imageIndex === cardImages.length - 1;
+    el.cardImageCaption.textContent = card.pageRange && cardImages.length > 1
+      ? `PDF 第 ${activeImage.pdfPage} 頁（本格 ${card.pageRange}）`
+      : `PDF 第 ${activeImage.pdfPage} 頁`;
   } else {
     el.cardImage.removeAttribute("src");
     el.cardImage.alt = "";
+    el.cardImageControls.hidden = true;
+    el.cardImageCounter.textContent = "";
     el.cardImageCaption.textContent = "";
   }
   el.cardStatus.textContent = card.isBlank ? "空白卡" : "非空白卡";
@@ -242,6 +276,7 @@ function renderTrail() {
     `;
     button.addEventListener("click", () => {
       state.cardIndex = index;
+      state.imageIndex = 0;
       renderCard();
       renderTrail();
     });
@@ -274,8 +309,23 @@ function moveCard(direction) {
   const nextIndex = state.cardIndex + direction;
   if (nextIndex < 0 || nextIndex >= currentSection().cards.length) return;
   state.cardIndex = nextIndex;
+  state.imageIndex = 0;
   renderCard();
   renderTrail();
+}
+
+function moveImage(direction) {
+  const images = getCardImages(currentCard());
+  const nextIndex = state.imageIndex + direction;
+  if (nextIndex < 0 || nextIndex >= images.length) return;
+  state.imageIndex = nextIndex;
+  renderCard();
+}
+
+function getCardImages(card) {
+  return card.images?.length
+    ? card.images
+    : (card.image ? [{ image: card.image, pdfPage: card.pdfPage, alt: card.imageAlt, fit: card.imageFit }] : []);
 }
 
 async function copyCurrentCard() {
@@ -327,6 +377,7 @@ function renderSearchResults() {
       state.talkIndex = result.talkIndex;
       state.sectionIndex = result.sectionIndex;
       state.cardIndex = result.cardIndex;
+      state.imageIndex = 0;
       el.searchDialog.close();
       render();
     });

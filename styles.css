@@ -144,6 +144,17 @@ button { color: inherit; }
   border: 1px solid rgba(216, 154, 61, .28); background: rgba(255, 255, 255, .025);
 }
 .card-image-wrap[hidden] { display: none; }
+.card-image-controls {
+  display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 9px;
+}
+.card-image-controls[hidden] { display: none; }
+.card-image-controls button {
+  border: 1px solid var(--line); background: #111315; color: var(--muted);
+  padding: 6px 9px; cursor: pointer; font-size: 11px;
+}
+.card-image-controls button:hover:not(:disabled) { color: var(--text); border-color: var(--accent); }
+.card-image-controls button:disabled { opacity: .35; cursor: not-allowed; }
+.card-image-controls span { color: var(--muted); font-size: 11px; }
 .card-image {
   display: block; width: 100%; max-height: 440px; object-fit: contain; background: #0a0b0c;
 }
