@@ -1,0 +1,1013 @@
+{
+  "talkId": "brushup-life-1",
+  "sourcePdf": "重啟人生 1.pdf",
+  "strategy": "64+8+1 section order; one PDF page image assigned to the same-position grid container",
+  "totalPdfPages": 69,
+  "totalGridSlots": 73,
+  "images": [
+    {
+      "page": 1,
+      "src": "/assets/slides/brushup-life-1/page-001.jpg",
+      "alt": "重啟人生 1 PDF 第 1 頁"
+    },
+    {
+      "page": 2,
+      "src": "/assets/slides/brushup-life-1/page-002.jpg",
+      "alt": "重啟人生 1 PDF 第 2 頁"
+    },
+    {
+      "page": 3,
+      "src": "/assets/slides/brushup-life-1/page-003.jpg",
+      "alt": "重啟人生 1 PDF 第 3 頁"
+    },
+    {
+      "page": 4,
+      "src": "/assets/slides/brushup-life-1/page-004.jpg",
+      "alt": "重啟人生 1 PDF 第 4 頁"
+    },
+    {
+      "page": 5,
+      "src": "/assets/slides/brushup-life-1/page-005.jpg",
+      "alt": "重啟人生 1 PDF 第 5 頁"
+    },
+    {
+      "page": 6,
+      "src": "/assets/slides/brushup-life-1/page-006.jpg",
+      "alt": "重啟人生 1 PDF 第 6 頁"
+    },
+    {
+      "page": 7,
+      "src": "/assets/slides/brushup-life-1/page-007.jpg",
+      "alt": "重啟人生 1 PDF 第 7 頁"
+    },
+    {
+      "page": 8,
+      "src": "/assets/slides/brushup-life-1/page-008.jpg",
+      "alt": "重啟人生 1 PDF 第 8 頁"
+    },
+    {
+      "page": 9,
+      "src": "/assets/slides/brushup-life-1/page-009.jpg",
+      "alt": "重啟人生 1 PDF 第 9 頁"
+    },
+    {
+      "page": 10,
+      "src": "/assets/slides/brushup-life-1/page-010.jpg",
+      "alt": "重啟人生 1 PDF 第 10 頁"
+    },
+    {
+      "page": 11,
+      "src": "/assets/slides/brushup-life-1/page-011.jpg",
+      "alt": "重啟人生 1 PDF 第 11 頁"
+    },
+    {
+      "page": 12,
+      "src": "/assets/slides/brushup-life-1/page-012.jpg",
+      "alt": "重啟人生 1 PDF 第 12 頁"
+    },
+    {
+      "page": 13,
+      "src": "/assets/slides/brushup-life-1/page-013.jpg",
+      "alt": "重啟人生 1 PDF 第 13 頁"
+    },
+    {
+      "page": 14,
+      "src": "/assets/slides/brushup-life-1/page-014.jpg",
+      "alt": "重啟人生 1 PDF 第 14 頁"
+    },
+    {
+      "page": 15,
+      "src": "/assets/slides/brushup-life-1/page-015.jpg",
+      "alt": "重啟人生 1 PDF 第 15 頁"
+    },
+    {
+      "page": 16,
+      "src": "/assets/slides/brushup-life-1/page-016.jpg",
+      "alt": "重啟人生 1 PDF 第 16 頁"
+    },
+    {
+      "page": 17,
+      "src": "/assets/slides/brushup-life-1/page-017.jpg",
+      "alt": "重啟人生 1 PDF 第 17 頁"
+    },
+    {
+      "page": 18,
+      "src": "/assets/slides/brushup-life-1/page-018.jpg",
+      "alt": "重啟人生 1 PDF 第 18 頁"
+    },
+    {
+      "page": 19,
+      "src": "/assets/slides/brushup-life-1/page-019.jpg",
+      "alt": "重啟人生 1 PDF 第 19 頁"
+    },
+    {
+      "page": 20,
+      "src": "/assets/slides/brushup-life-1/page-020.jpg",
+      "alt": "重啟人生 1 PDF 第 20 頁"
+    },
+    {
+      "page": 21,
+      "src": "/assets/slides/brushup-life-1/page-021.jpg",
+      "alt": "重啟人生 1 PDF 第 21 頁"
+    },
+    {
+      "page": 22,
+      "src": "/assets/slides/brushup-life-1/page-022.jpg",
+      "alt": "重啟人生 1 PDF 第 22 頁"
+    },
+    {
+      "page": 23,
+      "src": "/assets/slides/brushup-life-1/page-023.jpg",
+      "alt": "重啟人生 1 PDF 第 23 頁"
+    },
+    {
+      "page": 24,
+      "src": "/assets/slides/brushup-life-1/page-024.jpg",
+      "alt": "重啟人生 1 PDF 第 24 頁"
+    },
+    {
+      "page": 25,
+      "src": "/assets/slides/brushup-life-1/page-025.jpg",
+      "alt": "重啟人生 1 PDF 第 25 頁"
+    },
+    {
+      "page": 26,
+      "src": "/assets/slides/brushup-life-1/page-026.jpg",
+      "alt": "重啟人生 1 PDF 第 26 頁"
+    },
+    {
+      "page": 27,
+      "src": "/assets/slides/brushup-life-1/page-027.jpg",
+      "alt": "重啟人生 1 PDF 第 27 頁"
+    },
+    {
+      "page": 28,
+      "src": "/assets/slides/brushup-life-1/page-028.jpg",
+      "alt": "重啟人生 1 PDF 第 28 頁"
+    },
+    {
+      "page": 29,
+      "src": "/assets/slides/brushup-life-1/page-029.jpg",
+      "alt": "重啟人生 1 PDF 第 29 頁"
+    },
+    {
+      "page": 30,
+      "src": "/assets/slides/brushup-life-1/page-030.jpg",
+      "alt": "重啟人生 1 PDF 第 30 頁"
+    },
+    {
+      "page": 31,
+      "src": "/assets/slides/brushup-life-1/page-031.jpg",
+      "alt": "重啟人生 1 PDF 第 31 頁"
+    },
+    {
+      "page": 32,
+      "src": "/assets/slides/brushup-life-1/page-032.jpg",
+      "alt": "重啟人生 1 PDF 第 32 頁"
+    },
+    {
+      "page": 33,
+      "src": "/assets/slides/brushup-life-1/page-033.jpg",
+      "alt": "重啟人生 1 PDF 第 33 頁"
+    },
+    {
+      "page": 34,
+      "src": "/assets/slides/brushup-life-1/page-034.jpg",
+      "alt": "重啟人生 1 PDF 第 34 頁"
+    },
+    {
+      "page": 35,
+      "src": "/assets/slides/brushup-life-1/page-035.jpg",
+      "alt": "重啟人生 1 PDF 第 35 頁"
+    },
+    {
+      "page": 36,
+      "src": "/assets/slides/brushup-life-1/page-036.jpg",
+      "alt": "重啟人生 1 PDF 第 36 頁"
+    },
+    {
+      "page": 37,
+      "src": "/assets/slides/brushup-life-1/page-037.jpg",
+      "alt": "重啟人生 1 PDF 第 37 頁"
+    },
+    {
+      "page": 38,
+      "src": "/assets/slides/brushup-life-1/page-038.jpg",
+      "alt": "重啟人生 1 PDF 第 38 頁"
+    },
+    {
+      "page": 39,
+      "src": "/assets/slides/brushup-life-1/page-039.jpg",
+      "alt": "重啟人生 1 PDF 第 39 頁"
+    },
+    {
+      "page": 40,
+      "src": "/assets/slides/brushup-life-1/page-040.jpg",
+      "alt": "重啟人生 1 PDF 第 40 頁"
+    },
+    {
+      "page": 41,
+      "src": "/assets/slides/brushup-life-1/page-041.jpg",
+      "alt": "重啟人生 1 PDF 第 41 頁"
+    },
+    {
+      "page": 42,
+      "src": "/assets/slides/brushup-life-1/page-042.jpg",
+      "alt": "重啟人生 1 PDF 第 42 頁"
+    },
+    {
+      "page": 43,
+      "src": "/assets/slides/brushup-life-1/page-043.jpg",
+      "alt": "重啟人生 1 PDF 第 43 頁"
+    },
+    {
+      "page": 44,
+      "src": "/assets/slides/brushup-life-1/page-044.jpg",
+      "alt": "重啟人生 1 PDF 第 44 頁"
+    },
+    {
+      "page": 45,
+      "src": "/assets/slides/brushup-life-1/page-045.jpg",
+      "alt": "重啟人生 1 PDF 第 45 頁"
+    },
+    {
+      "page": 46,
+      "src": "/assets/slides/brushup-life-1/page-046.jpg",
+      "alt": "重啟人生 1 PDF 第 46 頁"
+    },
+    {
+      "page": 47,
+      "src": "/assets/slides/brushup-life-1/page-047.jpg",
+      "alt": "重啟人生 1 PDF 第 47 頁"
+    },
+    {
+      "page": 48,
+      "src": "/assets/slides/brushup-life-1/page-048.jpg",
+      "alt": "重啟人生 1 PDF 第 48 頁"
+    },
+    {
+      "page": 49,
+      "src": "/assets/slides/brushup-life-1/page-049.jpg",
+      "alt": "重啟人生 1 PDF 第 49 頁"
+    },
+    {
+      "page": 50,
+      "src": "/assets/slides/brushup-life-1/page-050.jpg",
+      "alt": "重啟人生 1 PDF 第 50 頁"
+    },
+    {
+      "page": 51,
+      "src": "/assets/slides/brushup-life-1/page-051.jpg",
+      "alt": "重啟人生 1 PDF 第 51 頁"
+    },
+    {
+      "page": 52,
+      "src": "/assets/slides/brushup-life-1/page-052.jpg",
+      "alt": "重啟人生 1 PDF 第 52 頁"
+    },
+    {
+      "page": 53,
+      "src": "/assets/slides/brushup-life-1/page-053.jpg",
+      "alt": "重啟人生 1 PDF 第 53 頁"
+    },
+    {
+      "page": 54,
+      "src": "/assets/slides/brushup-life-1/page-054.jpg",
+      "alt": "重啟人生 1 PDF 第 54 頁"
+    },
+    {
+      "page": 55,
+      "src": "/assets/slides/brushup-life-1/page-055.jpg",
+      "alt": "重啟人生 1 PDF 第 55 頁"
+    },
+    {
+      "page": 56,
+      "src": "/assets/slides/brushup-life-1/page-056.jpg",
+      "alt": "重啟人生 1 PDF 第 56 頁"
+    },
+    {
+      "page": 57,
+      "src": "/assets/slides/brushup-life-1/page-057.jpg",
+      "alt": "重啟人生 1 PDF 第 57 頁"
+    },
+    {
+      "page": 58,
+      "src": "/assets/slides/brushup-life-1/page-058.jpg",
+      "alt": "重啟人生 1 PDF 第 58 頁"
+    },
+    {
+      "page": 59,
+      "src": "/assets/slides/brushup-life-1/page-059.jpg",
+      "alt": "重啟人生 1 PDF 第 59 頁"
+    },
+    {
+      "page": 60,
+      "src": "/assets/slides/brushup-life-1/page-060.jpg",
+      "alt": "重啟人生 1 PDF 第 60 頁"
+    },
+    {
+      "page": 61,
+      "src": "/assets/slides/brushup-life-1/page-061.jpg",
+      "alt": "重啟人生 1 PDF 第 61 頁"
+    },
+    {
+      "page": 62,
+      "src": "/assets/slides/brushup-life-1/page-062.jpg",
+      "alt": "重啟人生 1 PDF 第 62 頁"
+    },
+    {
+      "page": 63,
+      "src": "/assets/slides/brushup-life-1/page-063.jpg",
+      "alt": "重啟人生 1 PDF 第 63 頁"
+    },
+    {
+      "page": 64,
+      "src": "/assets/slides/brushup-life-1/page-064.jpg",
+      "alt": "重啟人生 1 PDF 第 64 頁"
+    },
+    {
+      "page": 65,
+      "src": "/assets/slides/brushup-life-1/page-065.jpg",
+      "alt": "重啟人生 1 PDF 第 65 頁"
+    },
+    {
+      "page": 66,
+      "src": "/assets/slides/brushup-life-1/page-066.jpg",
+      "alt": "重啟人生 1 PDF 第 66 頁"
+    },
+    {
+      "page": 67,
+      "src": "/assets/slides/brushup-life-1/page-067.jpg",
+      "alt": "重啟人生 1 PDF 第 67 頁"
+    },
+    {
+      "page": 68,
+      "src": "/assets/slides/brushup-life-1/page-068.jpg",
+      "alt": "重啟人生 1 PDF 第 68 頁"
+    },
+    {
+      "page": 69,
+      "src": "/assets/slides/brushup-life-1/page-069.jpg",
+      "alt": "重啟人生 1 PDF 第 69 頁"
+    }
+  ],
+  "mapping": [
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1",
+      "kind": "center",
+      "pdfPage": 1,
+      "image": "/assets/slides/brushup-life-1/page-001.jpg",
+      "alt": "重啟人生 1｜第 1 頁｜1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.1",
+      "kind": "section",
+      "pdfPage": 2,
+      "image": "/assets/slides/brushup-life-1/page-002.jpg",
+      "alt": "重啟人生 1｜第 2 頁｜1.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.1.1",
+      "kind": "card",
+      "pdfPage": 3,
+      "image": "/assets/slides/brushup-life-1/page-003.jpg",
+      "alt": "重啟人生 1｜第 3 頁｜1.1.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.1.2",
+      "kind": "card",
+      "pdfPage": 4,
+      "image": "/assets/slides/brushup-life-1/page-004.jpg",
+      "alt": "重啟人生 1｜第 4 頁｜1.1.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.1.3",
+      "kind": "card",
+      "pdfPage": 5,
+      "image": "/assets/slides/brushup-life-1/page-005.jpg",
+      "alt": "重啟人生 1｜第 5 頁｜1.1.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.1.4",
+      "kind": "card",
+      "pdfPage": 6,
+      "image": "/assets/slides/brushup-life-1/page-006.jpg",
+      "alt": "重啟人生 1｜第 6 頁｜1.1.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.1.5",
+      "kind": "card",
+      "pdfPage": 7,
+      "image": "/assets/slides/brushup-life-1/page-007.jpg",
+      "alt": "重啟人生 1｜第 7 頁｜1.1.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.1.6",
+      "kind": "card",
+      "pdfPage": 8,
+      "image": "/assets/slides/brushup-life-1/page-008.jpg",
+      "alt": "重啟人生 1｜第 8 頁｜1.1.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.1.7",
+      "kind": "card",
+      "pdfPage": 9,
+      "image": "/assets/slides/brushup-life-1/page-009.jpg",
+      "alt": "重啟人生 1｜第 9 頁｜1.1.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.1.8",
+      "kind": "card",
+      "pdfPage": 10,
+      "image": "/assets/slides/brushup-life-1/page-010.jpg",
+      "alt": "重啟人生 1｜第 10 頁｜1.1.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.2",
+      "kind": "section",
+      "pdfPage": 11,
+      "image": "/assets/slides/brushup-life-1/page-011.jpg",
+      "alt": "重啟人生 1｜第 11 頁｜1.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.2.1",
+      "kind": "card",
+      "pdfPage": 12,
+      "image": "/assets/slides/brushup-life-1/page-012.jpg",
+      "alt": "重啟人生 1｜第 12 頁｜1.2.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.2.2",
+      "kind": "card",
+      "pdfPage": 13,
+      "image": "/assets/slides/brushup-life-1/page-013.jpg",
+      "alt": "重啟人生 1｜第 13 頁｜1.2.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.2.3",
+      "kind": "card",
+      "pdfPage": 14,
+      "image": "/assets/slides/brushup-life-1/page-014.jpg",
+      "alt": "重啟人生 1｜第 14 頁｜1.2.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.2.4",
+      "kind": "card",
+      "pdfPage": 15,
+      "image": "/assets/slides/brushup-life-1/page-015.jpg",
+      "alt": "重啟人生 1｜第 15 頁｜1.2.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.2.5",
+      "kind": "card",
+      "pdfPage": 16,
+      "image": "/assets/slides/brushup-life-1/page-016.jpg",
+      "alt": "重啟人生 1｜第 16 頁｜1.2.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.2.6",
+      "kind": "card",
+      "pdfPage": 17,
+      "image": "/assets/slides/brushup-life-1/page-017.jpg",
+      "alt": "重啟人生 1｜第 17 頁｜1.2.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.2.7",
+      "kind": "card",
+      "pdfPage": 18,
+      "image": "/assets/slides/brushup-life-1/page-018.jpg",
+      "alt": "重啟人生 1｜第 18 頁｜1.2.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.2.8",
+      "kind": "card",
+      "pdfPage": 19,
+      "image": "/assets/slides/brushup-life-1/page-019.jpg",
+      "alt": "重啟人生 1｜第 19 頁｜1.2.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.3",
+      "kind": "section",
+      "pdfPage": 20,
+      "image": "/assets/slides/brushup-life-1/page-020.jpg",
+      "alt": "重啟人生 1｜第 20 頁｜1.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.3.1",
+      "kind": "card",
+      "pdfPage": 21,
+      "image": "/assets/slides/brushup-life-1/page-021.jpg",
+      "alt": "重啟人生 1｜第 21 頁｜1.3.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.3.2",
+      "kind": "card",
+      "pdfPage": 22,
+      "image": "/assets/slides/brushup-life-1/page-022.jpg",
+      "alt": "重啟人生 1｜第 22 頁｜1.3.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.3.3",
+      "kind": "card",
+      "pdfPage": 23,
+      "image": "/assets/slides/brushup-life-1/page-023.jpg",
+      "alt": "重啟人生 1｜第 23 頁｜1.3.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.3.4",
+      "kind": "card",
+      "pdfPage": 24,
+      "image": "/assets/slides/brushup-life-1/page-024.jpg",
+      "alt": "重啟人生 1｜第 24 頁｜1.3.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.3.5",
+      "kind": "card",
+      "pdfPage": 25,
+      "image": "/assets/slides/brushup-life-1/page-025.jpg",
+      "alt": "重啟人生 1｜第 25 頁｜1.3.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.3.6",
+      "kind": "card",
+      "pdfPage": 26,
+      "image": "/assets/slides/brushup-life-1/page-026.jpg",
+      "alt": "重啟人生 1｜第 26 頁｜1.3.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.3.7",
+      "kind": "card",
+      "pdfPage": 27,
+      "image": "/assets/slides/brushup-life-1/page-027.jpg",
+      "alt": "重啟人生 1｜第 27 頁｜1.3.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.3.8",
+      "kind": "card",
+      "pdfPage": 28,
+      "image": "/assets/slides/brushup-life-1/page-028.jpg",
+      "alt": "重啟人生 1｜第 28 頁｜1.3.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.4",
+      "kind": "section",
+      "pdfPage": 29,
+      "image": "/assets/slides/brushup-life-1/page-029.jpg",
+      "alt": "重啟人生 1｜第 29 頁｜1.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.4.1",
+      "kind": "card",
+      "pdfPage": 30,
+      "image": "/assets/slides/brushup-life-1/page-030.jpg",
+      "alt": "重啟人生 1｜第 30 頁｜1.4.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.4.2",
+      "kind": "card",
+      "pdfPage": 31,
+      "image": "/assets/slides/brushup-life-1/page-031.jpg",
+      "alt": "重啟人生 1｜第 31 頁｜1.4.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.4.3",
+      "kind": "card",
+      "pdfPage": 32,
+      "image": "/assets/slides/brushup-life-1/page-032.jpg",
+      "alt": "重啟人生 1｜第 32 頁｜1.4.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.4.4",
+      "kind": "card",
+      "pdfPage": 33,
+      "image": "/assets/slides/brushup-life-1/page-033.jpg",
+      "alt": "重啟人生 1｜第 33 頁｜1.4.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.4.5",
+      "kind": "card",
+      "pdfPage": 34,
+      "image": "/assets/slides/brushup-life-1/page-034.jpg",
+      "alt": "重啟人生 1｜第 34 頁｜1.4.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.4.6",
+      "kind": "card",
+      "pdfPage": 35,
+      "image": "/assets/slides/brushup-life-1/page-035.jpg",
+      "alt": "重啟人生 1｜第 35 頁｜1.4.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.4.7",
+      "kind": "card",
+      "pdfPage": 36,
+      "image": "/assets/slides/brushup-life-1/page-036.jpg",
+      "alt": "重啟人生 1｜第 36 頁｜1.4.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.4.8",
+      "kind": "card",
+      "pdfPage": 37,
+      "image": "/assets/slides/brushup-life-1/page-037.jpg",
+      "alt": "重啟人生 1｜第 37 頁｜1.4.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.5",
+      "kind": "section",
+      "pdfPage": 38,
+      "image": "/assets/slides/brushup-life-1/page-038.jpg",
+      "alt": "重啟人生 1｜第 38 頁｜1.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.5.1",
+      "kind": "card",
+      "pdfPage": 39,
+      "image": "/assets/slides/brushup-life-1/page-039.jpg",
+      "alt": "重啟人生 1｜第 39 頁｜1.5.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.5.2",
+      "kind": "card",
+      "pdfPage": 40,
+      "image": "/assets/slides/brushup-life-1/page-040.jpg",
+      "alt": "重啟人生 1｜第 40 頁｜1.5.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.5.3",
+      "kind": "card",
+      "pdfPage": 41,
+      "image": "/assets/slides/brushup-life-1/page-041.jpg",
+      "alt": "重啟人生 1｜第 41 頁｜1.5.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.5.4",
+      "kind": "card",
+      "pdfPage": 42,
+      "image": "/assets/slides/brushup-life-1/page-042.jpg",
+      "alt": "重啟人生 1｜第 42 頁｜1.5.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.5.5",
+      "kind": "card",
+      "pdfPage": 43,
+      "image": "/assets/slides/brushup-life-1/page-043.jpg",
+      "alt": "重啟人生 1｜第 43 頁｜1.5.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.5.6",
+      "kind": "card",
+      "pdfPage": 44,
+      "image": "/assets/slides/brushup-life-1/page-044.jpg",
+      "alt": "重啟人生 1｜第 44 頁｜1.5.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.5.7",
+      "kind": "card",
+      "pdfPage": 45,
+      "image": "/assets/slides/brushup-life-1/page-045.jpg",
+      "alt": "重啟人生 1｜第 45 頁｜1.5.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.5.8",
+      "kind": "card",
+      "pdfPage": 46,
+      "image": "/assets/slides/brushup-life-1/page-046.jpg",
+      "alt": "重啟人生 1｜第 46 頁｜1.5.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.6",
+      "kind": "section",
+      "pdfPage": 47,
+      "image": "/assets/slides/brushup-life-1/page-047.jpg",
+      "alt": "重啟人生 1｜第 47 頁｜1.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.6.1",
+      "kind": "card",
+      "pdfPage": 48,
+      "image": "/assets/slides/brushup-life-1/page-048.jpg",
+      "alt": "重啟人生 1｜第 48 頁｜1.6.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.6.2",
+      "kind": "card",
+      "pdfPage": 49,
+      "image": "/assets/slides/brushup-life-1/page-049.jpg",
+      "alt": "重啟人生 1｜第 49 頁｜1.6.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.6.3",
+      "kind": "card",
+      "pdfPage": 50,
+      "image": "/assets/slides/brushup-life-1/page-050.jpg",
+      "alt": "重啟人生 1｜第 50 頁｜1.6.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.6.4",
+      "kind": "card",
+      "pdfPage": 51,
+      "image": "/assets/slides/brushup-life-1/page-051.jpg",
+      "alt": "重啟人生 1｜第 51 頁｜1.6.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.6.5",
+      "kind": "card",
+      "pdfPage": 52,
+      "image": "/assets/slides/brushup-life-1/page-052.jpg",
+      "alt": "重啟人生 1｜第 52 頁｜1.6.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.6.6",
+      "kind": "card",
+      "pdfPage": 53,
+      "image": "/assets/slides/brushup-life-1/page-053.jpg",
+      "alt": "重啟人生 1｜第 53 頁｜1.6.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.6.7",
+      "kind": "card",
+      "pdfPage": 54,
+      "image": "/assets/slides/brushup-life-1/page-054.jpg",
+      "alt": "重啟人生 1｜第 54 頁｜1.6.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.6.8",
+      "kind": "card",
+      "pdfPage": 55,
+      "image": "/assets/slides/brushup-life-1/page-055.jpg",
+      "alt": "重啟人生 1｜第 55 頁｜1.6.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.7",
+      "kind": "section",
+      "pdfPage": 56,
+      "image": "/assets/slides/brushup-life-1/page-056.jpg",
+      "alt": "重啟人生 1｜第 56 頁｜1.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.7.1",
+      "kind": "card",
+      "pdfPage": 57,
+      "image": "/assets/slides/brushup-life-1/page-057.jpg",
+      "alt": "重啟人生 1｜第 57 頁｜1.7.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.7.2",
+      "kind": "card",
+      "pdfPage": 58,
+      "image": "/assets/slides/brushup-life-1/page-058.jpg",
+      "alt": "重啟人生 1｜第 58 頁｜1.7.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.7.3",
+      "kind": "card",
+      "pdfPage": 59,
+      "image": "/assets/slides/brushup-life-1/page-059.jpg",
+      "alt": "重啟人生 1｜第 59 頁｜1.7.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.7.4",
+      "kind": "card",
+      "pdfPage": 60,
+      "image": "/assets/slides/brushup-life-1/page-060.jpg",
+      "alt": "重啟人生 1｜第 60 頁｜1.7.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.7.5",
+      "kind": "card",
+      "pdfPage": 61,
+      "image": "/assets/slides/brushup-life-1/page-061.jpg",
+      "alt": "重啟人生 1｜第 61 頁｜1.7.5",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.7.6",
+      "kind": "card",
+      "pdfPage": 62,
+      "image": "/assets/slides/brushup-life-1/page-062.jpg",
+      "alt": "重啟人生 1｜第 62 頁｜1.7.6",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.7.7",
+      "kind": "card",
+      "pdfPage": 63,
+      "image": "/assets/slides/brushup-life-1/page-063.jpg",
+      "alt": "重啟人生 1｜第 63 頁｜1.7.7",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.7.8",
+      "kind": "card",
+      "pdfPage": 64,
+      "image": "/assets/slides/brushup-life-1/page-064.jpg",
+      "alt": "重啟人生 1｜第 64 頁｜1.7.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.8",
+      "kind": "section",
+      "pdfPage": 65,
+      "image": "/assets/slides/brushup-life-1/page-065.jpg",
+      "alt": "重啟人生 1｜第 65 頁｜1.8",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.8.1",
+      "kind": "card",
+      "pdfPage": 66,
+      "image": "/assets/slides/brushup-life-1/page-066.jpg",
+      "alt": "重啟人生 1｜第 66 頁｜1.8.1",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.8.2",
+      "kind": "card",
+      "pdfPage": 67,
+      "image": "/assets/slides/brushup-life-1/page-067.jpg",
+      "alt": "重啟人生 1｜第 67 頁｜1.8.2",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.8.3",
+      "kind": "card",
+      "pdfPage": 68,
+      "image": "/assets/slides/brushup-life-1/page-068.jpg",
+      "alt": "重啟人生 1｜第 68 頁｜1.8.3",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.8.4",
+      "kind": "card",
+      "pdfPage": 69,
+      "image": "/assets/slides/brushup-life-1/page-069.jpg",
+      "alt": "重啟人生 1｜第 69 頁｜1.8.4",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.8.5",
+      "kind": "card",
+      "pdfPage": null,
+      "image": "",
+      "alt": "",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.8.6",
+      "kind": "card",
+      "pdfPage": null,
+      "image": "",
+      "alt": "",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.8.7",
+      "kind": "card",
+      "pdfPage": null,
+      "image": "",
+      "alt": "",
+      "fit": "contain"
+    },
+    {
+      "talkId": "brushup-life-1",
+      "gridId": "1.8.8",
+      "kind": "card",
+      "pdfPage": null,
+      "image": "",
+      "alt": "",
+      "fit": "contain"
+    }
+  ]
+}

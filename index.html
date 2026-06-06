@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0b0c0d" />
+    <title>重啟人生 Mandala Grid｜Trail Archive</title>
+    <link rel="stylesheet" href="styles.css?v=2" />
+  </head>
+  <body>
+    <header class="topbar">
+      <button class="icon-button mobile-only" id="navToggle" type="button" aria-label="切換左側導覽">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="brand">
+        <span class="brand-mark">九</span>
+        <div>
+          <strong>重啟人生 Mandala Grid</strong>
+          <span>Trail Archive</span>
+        </div>
+      </div>
+      <div class="topbar-meta">
+        <span id="archiveCount">讀取資料中</span>
+        <button class="text-button mobile-only" id="compassToggle" type="button">九宮羅盤</button>
+      </div>
+    </header>
+
+    <main class="app-shell">
+      <aside class="sidebar" id="sidebar" aria-label="演講與 Section">
+        <div class="panel-heading">
+          <div>
+            <span class="eyebrow">Archive</span>
+            <h2>演講 / PDF 場次</h2>
+          </div>
+          <span class="panel-index">A</span>
+        </div>
+        <div id="talkList" class="talk-list"></div>
+        <div class="section-heading">
+          <span>Section（八領域）</span>
+          <span id="sectionCount"></span>
+        </div>
+        <nav id="sectionList" class="section-list"></nav>
+        <section class="center-note">
+          <span class="eyebrow">本場中心格 · 1</span>
+          <h3 id="centerTitle">—</h3>
+          <p id="centerContent">—</p>
+        </section>
+      </aside>
+
+      <section class="reader" aria-live="polite">
+        <div class="panel-heading reader-heading">
+          <div>
+            <span class="eyebrow">Current card</span>
+            <h2>目前卡片</h2>
+          </div>
+          <span class="panel-index">B</span>
+        </div>
+        <article class="card-sheet" id="cardSheet">
+          <div class="card-topline">
+            <div class="grid-identity">
+              <span>Grid ID</span>
+              <strong id="cardGridId">—</strong>
+              <span id="cardSectionLabel">—</span>
+            </div>
+            <button class="copy-button" id="copyButton" type="button" aria-label="複製卡片內容">複製</button>
+          </div>
+          <div class="card-body">
+            <span class="field-label">Title</span>
+            <h1 id="cardTitle">正在載入資料</h1>
+            <figure class="card-image-wrap" id="cardImageWrap" hidden>
+              <img class="card-image" id="cardImage" src="" alt="" />
+              <figcaption id="cardImageCaption"></figcaption>
+            </figure>
+            <div class="rule"></div>
+            <span class="field-label">Content</span>
+            <div id="cardContent" class="card-content">請稍候…</div>
+          </div>
+          <footer class="card-footer">
+            <div>
+              <span class="field-label">狀態</span>
+              <strong id="cardStatus">—</strong>
+            </div>
+            <div>
+              <span class="field-label">來源檔案</span>
+              <strong id="cardSource">—</strong>
+            </div>
+          </footer>
+        </article>
+      </section>
+
+      <aside class="compass-panel" id="compassPanel" aria-label="九宮羅盤">
+        <div class="panel-heading">
+          <div>
+            <span class="eyebrow">Navigator</span>
+            <h2>九宮羅盤</h2>
+          </div>
+          <span class="panel-index">C</span>
+        </div>
+        <div class="compass-grid">
+          <button class="compass-cell" id="searchCell" type="button">
+            <span class="cell-number">1</span><span class="cell-icon">⌕</span>
+            <strong>搜尋</strong><small>搜尋卡片內容</small>
+          </button>
+          <button class="compass-cell" id="previousButton" type="button">
+            <span class="cell-number">2</span><span class="cell-icon">←</span>
+            <strong>上一張 Trail</strong><small>循序閱讀</small>
+          </button>
+          <div class="compass-cell select-cell">
+            <span class="cell-number">3</span><span class="cell-icon">≡</span>
+            <strong>Talk / Section</strong>
+            <label class="sr-only" for="sectionSelect">選擇 Talk 與 Section</label>
+            <select id="sectionSelect"></select>
+          </div>
+          <div class="compass-cell">
+            <span class="cell-number">4</span><span class="cell-icon">＋</span>
+            <strong>正向關鍵字</strong><small id="positiveKeywords">尚無關鍵字</small>
+          </div>
+          <div class="compass-cell location-cell">
+            <span class="cell-number">5</span><span class="cell-icon">◎</span>
+            <strong>本卡定位</strong><small>Talk / Section / Card</small>
+            <b id="cardLocation">—</b>
+          </div>
+          <div class="compass-cell">
+            <span class="cell-number">6</span><span class="cell-icon">−</span>
+            <strong>反向關鍵字</strong><small>資料尚未提供</small>
+          </div>
+          <div class="compass-cell">
+            <span class="cell-number">7</span><span class="cell-icon">“</span>
+            <strong>引用或來源</strong><small id="sourceShort">—</small>
+          </div>
+          <button class="compass-cell" id="nextButton" type="button">
+            <span class="cell-number">8</span><span class="cell-icon">→</span>
+            <strong>下一張 Trail</strong><small>循序閱讀</small>
+          </button>
+          <button class="compass-cell" id="draftButton" type="button">
+            <span class="cell-number">9</span><span class="cell-icon">✦</span>
+            <strong>AI 產生下一張草稿</strong><small>MVP 示意功能</small>
+          </button>
+        </div>
+        <div class="quick-info">
+          <span class="eyebrow">快速資訊</span>
+          <dl>
+            <div><dt>場次</dt><dd id="quickTalk">—</dd></div>
+            <div><dt>Section</dt><dd id="quickSection">—</dd></div>
+            <div><dt>卡片</dt><dd id="quickCard">—</dd></div>
+          </dl>
+        </div>
+      </aside>
+
+      <section class="trail-panel">
+        <div class="trail-heading">
+          <div>
+            <span class="eyebrow">Current sequence · D</span>
+            <h2 id="trailHeading">本 Section 的 Trail 卡片</h2>
+          </div>
+          <label class="blank-toggle">
+            <input id="blankToggle" type="checkbox" checked />
+            <span>顯示空白卡</span>
+          </label>
+        </div>
+        <div id="trailList" class="trail-list"></div>
+      </section>
+    </main>
+
+    <dialog id="searchDialog">
+      <form method="dialog" class="dialog-card">
+        <div class="dialog-heading">
+          <div>
+            <span class="eyebrow">Search archive</span>
+            <h2>搜尋 Trail 卡片</h2>
+          </div>
+          <button class="icon-button close-button" value="cancel" aria-label="關閉">×</button>
+        </div>
+        <label for="searchInput">輸入標題、內容或 Grid ID</label>
+        <input id="searchInput" type="search" autocomplete="off" placeholder="例如：中有、1.5.1" />
+        <div id="searchResults" class="search-results"></div>
+      </form>
+    </dialog>
+
+    <div id="toast" class="toast" role="status"></div>
+    <script src="app.js?v=2"></script>
+  </body>
+</html>
